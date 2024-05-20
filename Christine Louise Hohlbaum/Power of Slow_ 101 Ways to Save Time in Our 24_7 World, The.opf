@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">472f79f9-c405-46bb-aa51-d371d547191f</dc:identifier>
+        <dc:title>The Power of Slow: 101 Ways to Save Time in Our 24/7 World</dc:title>
+        <dc:creator opf:file-as="Hohlbaum, Christine Louise" opf:role="aut">Christine Louise Hohlbaum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-27T15:54:14.905162+00:00</dc:date>
+        <dc:description>&lt;p&gt;Overwhelmed by electronic gadgets? Buried under an avalanche of e-mails? Juggling too many tasks and responsibilities? Desperately in need of a deep breath and a time-out? For all of us who answer yes to any of these questions, help is on the way. Getting to the heart of our hassled and over-scheduled existence, Christine Louise Hohlbaum cheerfully investigates 101 ways to increase our quality of life and productivity by reevaluating how we perceive and use time. Everyone has their own personal bank account of time, and while we cannot control time itself, we can manage the activities with which we fill the time we have available to us. The Power of Slow gives readers practical, concise directions to change the relationship they have with time and debunks the myths of multitasking, speed, and urgency as the only ways to efficiency.&lt;/p&gt;
+
+&lt;p&gt;Tips include:· When working on a project on your computer, close all the windows, with the exception of the one you need to do your job.· Learn to say no in a polite and constructive way to favors, invitations, and requests.· Manage your own expectations, as well as those of others, by clearly stating what is possible in the time frame given.· Declare gadget-free zones (both geographical and temporal) to really enjoy your leisure time.· Know when your plate is full.· Make commitments to difficult tasks in five-minute increments and gradually increase the increments.· Save your most favorite or the easiest tasks for last to avoid procrastination.&lt;/p&gt;
+
+&lt;p&gt;The Power of Slow will help readers identify areas in need of improvement and show them how to become more efficient and less frazzled at work and at home---and live a better, more balanced life.&lt;/p&gt;</dc:description>
+        <dc:publisher>Macmillan + ORM</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781429986687</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0033ZAWNO</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">d-NF7791K1wC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stress Management</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>Time Management</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Power of Slow: 101 Ways to Save Time in Our 24/7 World, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Power of Slow_ 101 Ways to Save Time in Our 24_7 World, The.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ab39ba3-a2f8-4604-b212-e0aa69c5ef04</dc:identifier>
+        <dc:title>The Happiness Purpose</dc:title>
+        <dc:creator opf:file-as="Bono, Edward De" opf:role="aut">Edward De Bono</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-03T15:44:34.350170+00:00</dc:date>
+        <dc:description>&lt;p&gt;First published in 1977, in this extraordinarily prescient book Edward de Bono sets out his method for achieving the ultimate 21st century goal: work-life balance. Defined in terms of life-space and self-space, de Bono invites the reader to look at their life and measure the gap between these spaces – the smaller the gap, the greater our chances at happiness; but if the life-space is vastly bigger than the self-space, our coping ability is compromised and anxiety is likely. For anyone concerned with happiness and life-fulfilment this book is essential reading, and is perhaps more resonant with readers now than ever before.&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">TMsxDQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781473529977</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="The Happiness Purpose"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="The Happiness Purpose.jpg"/>
+    </guide>
+</package>

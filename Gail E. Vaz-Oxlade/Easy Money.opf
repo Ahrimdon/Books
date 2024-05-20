@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b8d9c74-d3f3-474d-a128-b87a7fcc5adf</dc:identifier>
+        <dc:title>Easy Money</dc:title>
+        <dc:creator opf:file-as="Vaz-Oxlade, Gail E." opf:role="aut">Gail E. Vaz-Oxlade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-15T14:46:59.869918+00:00</dc:date>
+        <dc:description>&lt;p&gt;In an honest, practical style, this book shows how to make your money work for you. Budgeting, saving, and getting debt paid off are explained in an easy to understand way.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grass Roots Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781926583549</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">68hSAQAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Easy Money"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Easy Money.jpg"/>
+    </guide>
+</package>

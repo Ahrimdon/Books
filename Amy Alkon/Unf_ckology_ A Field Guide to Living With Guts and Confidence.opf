@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c601876-472c-46dc-a12b-47962a98dc8c</dc:identifier>
+        <dc:title>Unf*ckology: A Field Guide to Living With Guts and Confidence</dc:title>
+        <dc:creator opf:file-as="Alkon, Amy" opf:role="aut">Amy Alkon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-23T15:48:36.663356+00:00</dc:date>
+        <dc:description>&lt;p&gt;Amy Alkon presents Unf*ckology, a “science-help” book that knocks the self-help genre on its unscientific ass. You can finally stop fear from being your boss and put an end to your lifelong social suckage. Have you spent your life shrinking from opportunities you were dying to seize but feel “that’s just who I am”? Well, screw that! You actually can change, and it doesn’t take exceptional intelligence or a therapist who’s looking forward to finally buying Aruba after decades of listening to you yammer on. Transforming yourself takes revolutionary science-help from Amy Alkon, who has spent the past 20 years translating cutting-edge behavioral science into highly practical advice in her award-winning syndicated column. In Unf*ckology, Alkon pulls together findings from neuroscience, behavioral science, evolutionary psychology, and clinical psychology. She explains everything in language you won’t need a psych prof on speed-dial to understand—and with the biting dark humor that made Good Manners for Nice People Who Sometimes Say F*ck such a great read. She debunks widely-accepted but scientifically unsupported notions about self-esteem, shame, willpower, and more and demonstrates that: - Thinking your way into changing (as so many therapists and self-help books advise) is the most inefficient way to go about it. - The mind is bigger than the brain, meaning that your body and your behavior are your gym for turning yourself into the new, confident you. - Fear is not just the problem; it’s also the solution.- By targeting your fears with behavior, you make changes in your brain that reshape your habitual ways of behaving and the emotions that go with them.&lt;/p&gt;
+
+&lt;p&gt;Follow Amy Alkon's groundbreaking advice in Unf*ckology, and eventually, you’ll no longer need to act like the new you; you’ll become the new you. And how totally f*cking cool is that?&lt;/p&gt;</dc:description>
+        <dc:publisher>St. Martin's Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">gxJFDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781250080868</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Topic</dc:subject>
+        <dc:subject>Business &amp; Professional</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Applied Psychology</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Etiquette</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Unf*ckology: A Field Guide to Living With Guts and Confidence"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Unf_ckology_ A Field Guide to Living With Guts and Confidence.jpg"/>
+    </guide>
+</package>

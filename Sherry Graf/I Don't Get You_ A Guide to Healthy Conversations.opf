@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f8e201d-b50f-4e24-830b-7b3349d30cf0</dc:identifier>
+        <dc:title>I Don't Get You: A Guide to Healthy Conversations</dc:title>
+        <dc:creator opf:file-as="Graf, Sherry" opf:role="aut">Sherry Graf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-15T15:17:04.560299+00:00</dc:date>
+        <dc:description>&lt;p&gt;Relationships can be confusing, and communication is a huge part of that confusion. I Don’t Get You aims to be a practical, accessible resource that helps readers navigate opposite-sex communication with intentionality.&lt;/p&gt;
+
+&lt;p&gt;This booklet explores how God designed our hearts and the variations between men and women. Men and women relate, attach, and express themselves differently. Even what we think and feel during a shared conversation may be misunderstood.&lt;/p&gt;
+
+&lt;p&gt;The 5 Categories of Conversation introduced in this booklet give practical and easy-to-apply guidelines for interaction. The material guides us to fulfilling relationships that respect emotional boundaries and promote healthy interactions. I Don’t Get You equips men to protect their own hearts and the hearts of women around them. It also reveals how we can intentionally pursue the heart of one special person. Women will learn to recognize the invisible emotional ties that easily form and to guard their hearts from uncommitted emotional intimacy.&lt;/p&gt;</dc:description>
+        <dc:publisher>NavPress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781631465697</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6dk7CwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion / Christian Life / Relationships</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Pastoral Resources</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Christian Ministry</dc:subject>
+        <dc:subject>Love &amp; Marriage</dc:subject>
+        <dc:subject>Religion / Christian Life / Spiritual Growth</dc:subject>
+        <dc:subject>Christian Living</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="I Don't Get You: A Guide to Healthy Conversations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="I Don't Get You_ A Guide to Healthy Conversations.jpg"/>
+    </guide>
+</package>

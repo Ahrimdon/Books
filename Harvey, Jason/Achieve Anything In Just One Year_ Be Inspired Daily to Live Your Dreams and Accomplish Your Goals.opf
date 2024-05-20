@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">376</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5036e359-3848-4790-9469-7a971c1a908e</dc:identifier>
+        <dc:title>Achieve Anything In Just One Year: Be Inspired Daily to Live Your Dreams and Accomplish Your Goals</dc:title>
+        <dc:creator opf:file-as="Harvey, Jason" opf:role="aut">Harvey, Jason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-07T06:00:00+00:00</dc:date>
+        <dc:publisher>Amazing Life Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Improvement</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Achieve Anything In Just One Year: Be Inspired Daily to Live Your Dreams and Accomplish Your Goals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Achieve Anything In Just One Year_ Be Inspired Daily to Live Your Dreams and Accomplish Your Goals.jpg"/>
+    </guide>
+</package>

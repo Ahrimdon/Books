@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3a8b442-6452-4b33-a52a-d01f811ed9d4</dc:identifier>
+        <dc:title>Loving Our Kids on Purpose: Making a Heart-To-Heart Connection</dc:title>
+        <dc:creator opf:file-as="Silk, Danny" opf:role="aut">Danny Silk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-15T14:48:26.856338+00:00</dc:date>
+        <dc:description>&lt;p&gt;You CAN raise good kids!Loving Our Kids on Purpose combines the principles of the Kingdom of God and revival to form a powerful strategy for parents. Where the Spirit of the Lord is there is freedom (2 Corinthians 3:17). Rather than the traditional approaches that train children to learn to accept being controlled by well-meaning parents and adults, this book teaches parents how to train children to manage their freedoms and protect their important heart-to-heart relationships. Children were designed with the core need of freedom. To deny this or live ignorant of it eventually destroys the trust connection between parent and child. There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love (1 John 4:18 NKJV).&lt;/p&gt;
+
+&lt;p&gt;Loving Our Kids on Purpose introduces paradigms, perceptions, skills, and ideas that will help parents reduce fear by eliminating the tool of punishment and strengthening the core character of their children by empowering their self-control and value for their relationship with their parents.&lt;/p&gt;</dc:description>
+        <dc:publisher>Destiny Image Pubs., Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780768427394</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">sNJIOgAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Parenting</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Christian Theology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Loving Our Kids on Purpose: Making a Heart-To-Heart Connection"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Loving Our Kids on Purpose_ Making a Heart-To-Heart Connection.jpg"/>
+    </guide>
+</package>

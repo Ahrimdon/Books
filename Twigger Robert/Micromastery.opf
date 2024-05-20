@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee067e42-3ba2-4394-b9e2-af193ba24957</dc:identifier>
+        <dc:title>Micromastery</dc:title>
+        <dc:creator opf:file-as="Robert, Twigger" opf:role="aut">Twigger Robert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;'&lt;/strong&gt; Micromastery &lt;strong&gt;is a triumph. I read it with delight, and instantly vowed to put more conviction into the latest thing I'm trying, which is using a plectrum when I play the guitar'&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Philip Pullman&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want to learn how to cook?&lt;/strong&gt; Start by making an omelette.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want to be able to dance?&lt;/strong&gt; First learn the Tango Walk.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want to be more creative, smarter and happier?&lt;/strong&gt; Read this book.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Micromastery&lt;/strong&gt; is the inspiring new way to approach any kind of challenge or skill. With this simple, accessible technique you can get a grip on new subjects quickly, then experiment and grow.  &lt;/p&gt;
+&lt;p&gt;Whether it's making a perfect soufflé, painting a door or lighting a fire -- &lt;strong&gt;just three of the thirty nine little skills this book will teach you --&lt;/strong&gt; you'll find that cultivating micro areas of expertise is life-changing. Become a &lt;strong&gt;fearless learner&lt;/strong&gt; , spot more &lt;strong&gt;creative opportunities&lt;/strong&gt; , and improve your &lt;strong&gt;brain health&lt;/strong&gt; and &lt;strong&gt;wellbeing.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Start small. Start specific. But&lt;/strong&gt; start &lt;strong&gt;- and you'll be on the path to mastery.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;'A brilliantly smart, cunningly simple idea. Conquering every skill, talent, and life hack in seconds is what the modern man yearns for'&lt;br /&gt;
+Jim Allen, MD, RDF Television  &lt;/p&gt;
+&lt;p&gt;'Robert Twigger is an inspiring author. Read this book!'&lt;br /&gt;
+Nick Hodgson, Kaiser Chiefs  &lt;/p&gt;
+&lt;p&gt;'Brilliant. . . . mastering a series of small tasks has created pockets of perfection through my day, and made me calmer and happier in the process'&lt;br /&gt;
+Rachel Kelly, author of &lt;em&gt;Walking on Sunshine: 52 Small Steps to Happiness&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Robert Twigger&lt;/strong&gt; is an author, adventure traveller and apprentice micromaster. His first book, &lt;em&gt;Angry White Pyjamas&lt;/em&gt; , about a year spent in a Japanese martial arts dojo, won the William Hill Sports Book of the Year Award and the Somerset Maugham Award. He has lectured on risk management, polymathics and leadership at Oxford Brookes Business School, Oxford University, the Royal College of Art, and to companies including P&amp;amp;G, Maersk shipping, Oracle computing and SAB Miller.&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Life</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0241280060</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780241280065</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Micromastery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Micromastery.jpg"/>
+    </guide>
+</package>

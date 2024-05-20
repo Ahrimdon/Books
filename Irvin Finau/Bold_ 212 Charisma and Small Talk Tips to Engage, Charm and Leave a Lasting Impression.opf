@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d25648c-4bb1-4997-9653-27cceacaf8b7</dc:identifier>
+        <dc:title>Bold: 212 Charisma and Small Talk Tips to Engage, Charm and Leave a Lasting Impression</dc:title>
+        <dc:creator opf:file-as="Finau, Irvin" opf:role="aut">Irvin Finau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-20T15:21:56.222206+00:00</dc:date>
+        <dc:description>&lt;p&gt;Learn how to be charismatic from a book with charisma Being charismatic is the holy grail of personality skills. But charisma is also one of the most challenging traits to develop and hone. Unlike other books on charisma, BOLD doesn't tell you who to be. It tells you what to do and shows you how to do it. BOLD features a comprehensive and actually habit-forming list of tips, tricks and techniques that will turn you into a social genius, a master of the conversation, and an expert in attracting other people's praise. And with its visual format and use of cartoons, jokes, and quotes, you will enjoy coming back to it again and again as you become the very definition of charisma.&lt;/p&gt;</dc:description>
+        <dc:publisher>Sourcebooks, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781623156367</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7LDXEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Bold: 212 Charisma and Small Talk Tips to Engage, Charm and Leave a Lasting Impression"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Bold_ 212 Charisma and Small Talk Tips to Engage, Charm and Leave a Lasting Impression.jpg"/>
+    </guide>
+</package>

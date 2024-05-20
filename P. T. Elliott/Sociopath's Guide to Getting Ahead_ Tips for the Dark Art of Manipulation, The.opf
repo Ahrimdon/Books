@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddb7241f-9912-4475-b010-64e59d5c05cf</dc:identifier>
+        <dc:title>The Sociopath's Guide to Getting Ahead: Tips for the Dark Art of Manipulation</dc:title>
+        <dc:creator opf:file-as="Elliott, P. T." opf:role="aut">P. T. Elliott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-13T15:25:59.445567+00:00</dc:date>
+        <dc:description>&lt;p&gt;Can you be manipulative or irresponsible? Do you occasionally experience a lack of guilt or empathy? Can you be impulsive and feel a need for excitement? Well, these traits are the hallmarks of the sociopath inside you, and it’s time to embrace it! The time to unleash your inner sociopath has never been more right—just look at today’s world leaders and most popular personalities. And it’s time to get yours.  Shoot up the promotional ladder and become the predator at the top of the corporate food chain with The Sociopath’s Guide to Getting Ahead. Find the perfect job for the sociopath in you, fabricate your resume to perfection, and manufacture the perfect first impression to ace those interviews. Prey on the biases and manipulate the psychology of your coworkers to break them down. Engineer conflict, manipulate the flow of attention, and seize power for yourself. Play the office party to perfection. Learn how to fake naturalness, make the right allies, and take down your enemies. And take it all the way to the bank.  A scathing, tongue-in-cheek take on Dale Carnegie's How to Win Friends and Influence People, the self-help industry, and our world today, featuring cameos by Dostoyevsky, Plato, Robert Greene, Malcolm Gladwell and many others, The Sociopath’s Guide to Getting Ahead is the practical satire we need.&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781510725393</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZDaCDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Form</dc:subject>
+        <dc:subject>Parodies</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>Job Hunting</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="Sociopath's Guide to Getting Ahead: Tips for the Dark Art of Manipulation, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Sociopath's Guide to Getting Ahead_ Tips for the Dark Art of Manipulation, The.jpg"/>
+    </guide>
+</package>

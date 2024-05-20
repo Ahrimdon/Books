@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58858bd8-81f7-495f-82f4-3b4967b54316</dc:identifier>
+        <dc:title>Quiet Mind, Fearless Heart: The Taoist Path Through Stress and Spirituality</dc:title>
+        <dc:creator opf:file-as="Seaward, Brian Luke" opf:role="aut">Brian Luke Seaward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-07T14:48:49.201587+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Reading Quiet Mind, Fearless Heart is like eavesdropping on a conversation between Lao Tzu and Joseph Campbell--a pure pleasure to read!"--Deepak Chopra, M.D., coauthor of The Seven Spiritual Laws of Yoga and author of The Spontaneous Fulfillment of Desire"Quiet Mind, Fearless Heart is an enchanting piece of wisdom that combines ancient insights with practical solutions to the stress epidemic that permeates our culture. Brian Luke Seaward is a master teacher, skillful guide, and true healer.&lt;/p&gt;
+
+&lt;p&gt;"--Larry Dossey, M.D., author of Healing Words and Reinventing Medicine"The perfect antidote for these acceleratingly stressful post-9/11 times with fearmongers accosting us everywhere, Quiet Mind, Fearless Heart artfully and wisely blends stress relief with spirituality. Keeping us constantly uplifted and engaged, this book is filled with witty sayings, practical, powerful exercises, and personal stories that ring with heartfelt authenticity.&lt;/p&gt;
+
+&lt;p&gt;"--Candace B. Pert, Ph.&lt;/p&gt;
+
+&lt;p&gt;D., author of Molecules of EmotionWith graceful wisdom and gentle humor, Dr. Brian Luke Seaward helps you see past the limitations of the ego to the highest potential of the human spirit at the core of your very being. Through a unique alchemy of the ancient Chinese philosophy of Taoism and the timeless insights of the visionary Joseph Campbell, Seaward shows you how to harness this potential so that you may find the courage to be a victor, not a victim of life's problems. Through the realization of this alchemy you will become the hero at the center of your own mythical life journey.&lt;/p&gt;
+
+&lt;p&gt;Using simple but powerful exercises, meditations, and self-exploration techniques, you will learn to reconnect and harmonize with the universal spirit energy, or Tao, that flows through you to achieve inner balance, the joy of life, and optimal health. This book gives you the tools and skills to overcome adversity, resolve the emotional and psychological obstacles keeping you from realizing your potential, and vanquish stress, bringing peace to your heart and soul. Featuring the insights of renowned spiritual luminaries and philosophers from around the world and throughout the ages as well as many inspirational stories from women and men just like you, this powerful motivational guide shows you how to cope with everyday stress, embrace your divinity, and find true harmony in your life.&lt;/p&gt;</dc:description>
+        <dc:publisher>Turner Publishing Company</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VoDuEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781118040270</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>Stress Management</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Quiet Mind, Fearless Heart: The Taoist Path Through Stress and Spirituality"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Quiet Mind, Fearless Heart_ The Taoist Path Through Stress and Spirituality.jpg"/>
+    </guide>
+</package>

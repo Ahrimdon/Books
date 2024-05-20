@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59bd4556-4c51-4e6d-a33c-53059122d3c0</dc:identifier>
+        <dc:title>Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think</dc:title>
+        <dc:creator opf:file-as="Caplan, Bryan" opf:role="aut">Bryan Caplan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T15:38:07.074664+00:00</dc:date>
+        <dc:description>&lt;p&gt;We've needlessly turned parenting into an unpleasant chore. Parents invest more time and money in their kids than ever, but the shocking lesson of twin and adoption research is that upbringing is much less important than genetics in the long run. These revelations have surprising implications for how we parent and how we spend time with our kids. The big lesson: Mold your kids less and enjoy your life more. Your kids will still turn out fine.&lt;/p&gt;
+
+&lt;p&gt;Selfish Reasons to Have More Kids is a book of practical big ideas. How can parents be happier? What can they change--and what do they need to just accept? Which of their worries can parents safely forget? Above all, what is the right number of kids for you to have? You'll never see kids or parenthood the same way again.&lt;/p&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780465018673</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rAaKDAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Marriage &amp; Family</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Parenting</dc:subject>
+        <dc:subject>Non-fiction</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Selfish Reasons to Have More Kids_ Why Being a Great Parent Is Less Work and More Fun Than You Think.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0e96010-421b-47be-9f5c-8f5d8d4d2317</dc:identifier>
+        <dc:title>Emotional Success: The Power of Gratitude, Compassion, and Pride</dc:title>
+        <dc:creator opf:file-as="DeSteno, David" opf:role="aut">David DeSteno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-15T15:30:02.191052+00:00</dc:date>
+        <dc:description>&lt;p&gt;A pioneering psychologist reveals how three emotions can provide the surest, quickest route to success in any realm.  A string of bestsellers have alerted us to the importance of grit - an ability to persevere and control one's impulses that is so closely associated with greatness. But no book yet has charted the most accessible and powerful path to grit: our prosocial emotions. These feelings - gratitude, compassion and pride - are easier to generate than the willpower and self-denial that underpin traditional approaches to grit. And, while willpower is quickly depleted, prosocial emotions actually become stronger the more we use them. These emotions have another crucial advantage: they're contagious. Those around us become more likely to apply them when we do.  As this myth-shattering book explains, prosocial emotions evolved specifically to help us resist immediate temptations in favor of long-term gains. Originally, they enabled us to build lasting relationships with other people, and they still do that brilliantly. But they can also be adapted to strengthen our bonds with our own future selves - who will benefit most from the grit we need to succeed in life. No matter what our goals are, EMOTIONAL SUCCESS can help us achieve them with greater ease and deeper satisfaction than we would have thought possible.&lt;/p&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">l99DDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780544703100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ethics &amp; Moral Philosophy</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Emotions</dc:subject>
+        <dc:subject>Cognitive Neuroscience &amp; Cognitive Neuropsychology</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Philanthropy &amp; Charity</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Emotional Success: The Power of Gratitude, Compassion, and Pride"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Emotional Success_ The Power of Gratitude, Compassion, and Pride.jpg"/>
+    </guide>
+</package>

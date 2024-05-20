@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93c715c6-47c5-4620-b91a-7a04bce7f34e</dc:identifier>
+        <dc:title>A Little Book on the Human Shadow</dc:title>
+        <dc:creator opf:file-as="Bly, Robert" opf:role="aut">Robert Bly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-06T15:45:22.757212+00:00</dc:date>
+        <dc:description>&lt;p&gt;Robert Bly, renowned poet and author of the ground-breaking bestseller Iron John, mingles essay and verse to explore the Shadow -- the dark side of the human personality -- and the importance of confronting it.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061971174</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">0Kih4mwxpKgC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>Psychoanalysis</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Jungian</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <dc:subject>Healing</dc:subject>
+        <dc:subject>Dreams</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Little Book on the Human Shadow, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Little Book on the Human Shadow, A.jpg"/>
+    </guide>
+</package>

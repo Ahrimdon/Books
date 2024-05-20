@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec43354e-a2f1-4caf-8159-ad9ca1ea8311</dc:identifier>
+        <dc:title>8 Keys to Raising the Quirky Child: How to Help a Kid Who Doesn't (Quite) Fit in (8 Keys to Mental Health)</dc:title>
+        <dc:creator opf:file-as="Bowers, Mark" opf:role="aut">Mark Bowers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-27T15:42:57.058493+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tips and strategies for parents of kids who are “different” than all the rest. A quirky child experiences difficulty fitting in and connecting with others usually due to an interpersonal style or behavior that stands out from the other kids. Maybe they are obsessed with a topic of interest or spend excessive hours a day reading, playing video games, or playing with just one toy. These kids are not so far afield as to fall on the autism spectrum, but they are unique, and their behaviors are not addressed in typical parenting books.  This book defines quirky markers and offers strategies for parents to understand their children’s brains and behaviors; to know what is developmentally appropriate, and what isn’t; to understand how to reach their kids; and to help facilitate their social functioning in the world.  It will calm the hearts and minds of parents who worry that their child doesn’t fit in and offer hope to parents who need strategies to support their quirky child’s overall development.&lt;/p&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393709339</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YgudBAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Parenting</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="8 Keys to Raising the Quirky Child: How to Help a Kid Who Doesn't (Quite) Fit in (8 Keys to Mental Health)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="8 Keys to Raising the Quirky Child_ How to Help a Kid Who Doesn't (Quite) Fit in (8 Keys to Mental Health).jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">310</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3dd1119-4fa2-492f-89a1-e104c3803e15</dc:identifier>
+        <dc:title>She: Understanding Feminine Psychology</dc:title>
+        <dc:creator opf:file-as="Johnson, Robert A." opf:role="aut">Robert A. Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-21T15:05:44.698817+00:00</dc:date>
+        <dc:description>&lt;p&gt;Robert A. Johnson's groundbreaking, brilliant, and insightful work on how women transition into being mature and developing their own identity—newly reissued.&lt;/p&gt;
+
+&lt;p&gt;What does it mean to be a woman? What is the pathway to mature femininity? And what of the masculine components of a woman’s personality?Many scholars and writers have long considered that the ancient myth of Amor and Psyche is really the story of a woman’s task of becoming whole, complete, and individuated.  Here, examining this ancient story in depth and lighting up the details, Robert A. Johnson has produced an arresting and perceptive exploration of what it means to become a woman. You will not read these pages without understanding the important women in your life and a good deal about yourself as a woman.   More important than ever before, She offers a compelling study of women.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">6eZB2Mp1J5UC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780061957758</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Human Sexuality</dc:subject>
+        <dc:subject>Gender Studies</dc:subject>
+        <dc:subject>Dating</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="She: Understanding Feminine Psychology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="She_ Understanding Feminine Psychology.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d982f32-4928-49bd-bacf-6a92b3dba1db</dc:identifier>
+        <dc:title>Ghost in the Wires: My Adventures as the World's Most Wanted Hacker</dc:title>
+        <dc:creator opf:file-as="Mitnick, Kevin" opf:role="aut">Kevin Mitnick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-15T14:52:46.729624+00:00</dc:date>
+        <dc:description>&lt;p&gt;Kevin Mitnick was the most elusive computer break-in artist in history. He accessed computers and networks at the world's biggest companies--and however fast the authorities were, Mitnick was faster, sprinting through phone switches, computer systems, and cellular networks. He spent years skipping through cyberspace, always three steps ahead and labeled unstoppable. But for Kevin, hacking wasn't just about technological feats-it was an old fashioned confidence game that required guile and deception to trick the unwitting out of valuable information.&lt;/p&gt;
+
+&lt;p&gt;Driven by a powerful urge to accomplish the impossible, Mitnick bypassed security systems and blazed into major organizations including Motorola, Sun Microsystems, and Pacific Bell. But as the FBI's net began to tighten, Kevin went on the run, engaging in an increasingly sophisticated cat and mouse game that led through false identities, a host of cities, plenty of close shaves, and an ultimate showdown with the Feds, who would stop at nothing to bring him down.  Ghost in the Wires is a thrilling true story of intrigue, suspense, and unbelievable escape, and a portrait of a visionary whose creativity, skills, and persistence forced the authorities to rethink the way they pursued him, inspiring ripples that brought permanent changes in the way people and companies protect their most sensitive information.&lt;/p&gt;</dc:description>
+        <dc:publisher>Little, Brown</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316037709</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316037702</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">BdPPngEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Personal Memoirs</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criminals &amp; Outlaws</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Ghost in the Wires: My Adventures as the World's Most Wanted Hacker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Ghost in the Wires_ My Adventures as the World's Most Wanted Hacker.jpg"/>
+    </guide>
+</package>

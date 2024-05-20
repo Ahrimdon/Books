@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bfd266a-30a3-459c-84df-458ca9b551ab</dc:identifier>
+        <dc:title>Rejection Free: How to Choose Yourself First and Take Charge of Your Life by Confidently Asking For What You Want</dc:title>
+        <dc:creator opf:file-as="Allan, Scott" opf:role="aut">Scott Allan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T04:00:00+00:00</dc:date>
+        <dc:publisher>Oblictus Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01GUM93VI</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Rejection Free: How to Choose Yourself First and Take Charge of Your Life by Confidently Asking For What You Want"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Rejection Free_ How to Choose Yourself First and Take Charge of Your Life by Confidently Asking For What You Want.jpg"/>
+    </guide>
+</package>

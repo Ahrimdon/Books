@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0170eada-e9ba-4e06-99fd-d175c26a5c38</dc:identifier>
+        <dc:title>Ayurveda</dc:title>
+        <dc:creator opf:file-as="Ketabi, Sahara Rose" opf:role="aut">Sahara Rose Ketabi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-08T15:03:18.754305+00:00</dc:date>
+        <dc:description>&lt;p&gt;“A must-read for anyone coming to Ayurveda for the first time or as a readable brush-up for all. Sahara offers a contemporary explanation of Ayurvedic wisdom that resonates with today’s readers.”-Deepak ChopraDiscover your Ayurvedic Dosha (mind-body type) and find foods, self-care practices, yoga poses, and meditations that are tailored to your unique needs. Best-selling author Sahara Rose Ketabi makes Ayurveda accessible with this contemporary guide to the world’s oldest health system. Originating in India over 5,000 years ago, Ayurveda is the sister science to yoga. It’s the age-old secret to longevity, digestive health, mental clarity, beauty, and balance that’s regaining popularity today for its tried-and-trued methods.  Sahara Rose revitalizes ancient Ayurvedic wisdom with a modern approach and explains how adjusting the timing of your meals; incorporating self-care practices such as dry-brushing, oil-pulling and tongue-scraping; eating the correct foods for your digestive type; and practicing the right yoga and meditation practices for your unique personality will radically enhance your health, digestion, radiance, intuition, and bliss. With Idiot’s Guides: Ayurveda, you will: •       Discover your unique Dosha and learn how it is reflected in your physiology, metabolism, digestion, personality, and even in your dreams. •       Learn how your body’s needs change according to the season, environment, and time of day •       Find ways to regain luster, passion and flow in your life •       Enjoy easy-to-make, plant-based recipes  •       Establish an Ayurvedic morning and nighttime ritual for optimal balance  •       Learn how to balance your chakras according to your Dosha  •       Use Ayurvedic herbs and spices to heal digestive issues, skin problems, hormonal imbalance, and other ailments  With plenty of fun facts, holistic humor, and sacred knowledge from Sahara that will help you seamlessly integrate Ayurveda into your lifestyle.&lt;/p&gt;</dc:description>
+        <dc:publisher>National Geographic Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">s5KPEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781465462763</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Alternative Therapies</dc:subject>
+        <dc:subject>Healthy Living &amp; Personal Hygiene</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Healing</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Ayurveda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Ayurveda.jpg"/>
+    </guide>
+</package>

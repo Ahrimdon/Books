@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d90af2d-c7a3-422f-94a3-473f0525bfdb</dc:identifier>
+        <dc:title>The Power of Now Journal</dc:title>
+        <dc:creator opf:file-as="Tolle, Eckhart" opf:role="aut">Eckhart Tolle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-15T14:47:39.780055+00:00</dc:date>
+        <dc:description>&lt;p&gt;This beautiful journal is filled with carefully chosen, inspiring quotes from Eckhart Tolle's masterpiece, The Power of Now.  Terms like groundbreaking and life-changing are often used to describe books, but not always accurately. They are when describing The Power of Now, which has become a genuine cultural phenomenon. Oprah Winfrey keeps it at her bedside and calls it "one of the most valuable books I've ever read.&lt;/p&gt;
+
+&lt;p&gt;" Katy Perry says it inspired her song "This Moment.&lt;/p&gt;
+
+&lt;p&gt;" Director Tom Ford asked everyone in his film A Single Man to read it -- and on and on.  More importantly, millions who suffer from the kind of debilitating depression Tolle once did or who wrestle with anxiety, loss, or grief, as well as those seeking personal growth and a deeper experience of fulfillment and spirituality, have found life-altering, attitude-shifting inspiration in the book's simple yet powerful teachings.  Lovely, vibrant four-color art and carefully chosen excerpts inspire insights and prompt contemplation, meditation, and relaxation. Whether you're a longtime fan or new to Tolle's work, the journal format will help you engage with Tolle's teachings to discover or rediscover the extraordinary power of The Power of Now.&lt;/p&gt;</dc:description>
+        <dc:publisher>New World Library</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7q6rDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781608686377</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>Inspiration &amp; Personal Growth</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Affirmations</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Power of Now Journal, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Power of Now Journal, The.jpg"/>
+    </guide>
+</package>

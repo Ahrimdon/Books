@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c85273b-58e4-4eb3-a23c-f3f5817c2a4d</dc:identifier>
+        <dc:title>Between Parent and Child: Revised and Updated: The Bestselling Classic That Revolutionized Parent-Child Communication</dc:title>
+        <dc:creator opf:file-as="Ginott, Haim G." opf:role="aut">Dr. Haim G. Ginott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-04T15:55:52.056873+00:00</dc:date>
+        <dc:description>&lt;p&gt;Strengthen your relationship with your children with this revised edition of the book by renowned psychologist Dr. Haim Ginott that has helped millions of parents around the world.  In this revised edition, Dr. Alice Ginott, clinical psychologist and wife of the late Haim Ginott, and family relationship specialist Dr. H. Wallace Goddard usher this bestselling classic into the new century while retaining the book’s positive message and Haim Ginott’s warm, accessible voice. Based on the theory that parenting is a skill that can be learned, this indispensable handbook will show you how to: • Discipline without threats, bribes, sarcasm, and punishment • Criticize without demeaning, praise without judging, and express anger without hurting  • Acknowledge rather than argue with children’s feelings, perceptions, and opinions • Respond so that children will learn to trust and develop self-confidenceThis revolutionary book offered a straightforward prescription for empathetic yet disciplined child rearing and introduced new communication techniques that would change the way parents spoke with, and listened to, their children. Dr. Ginott’s innovative approach to parenting has influenced an entire generation of experts in the field, and now his methods can work for you, too.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harmony/Rodale</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000SEGK48</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307514189</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">BMSIj_nDfuIC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Parenting</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Conflict Resolution</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Developmental</dc:subject>
+        <dc:subject>Child</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Between Parent and Child: Revised and Updated: The Bestselling Classic That Revolutionized Parent-Child Communication"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Between Parent and Child_ Revised and Updated_ The Bestselling Classic That Revolutionized Parent-Child Communication.jpg"/>
+    </guide>
+</package>

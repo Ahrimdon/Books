@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fa558d2-bfa1-44aa-ba5f-b1aa5ee3699f</dc:identifier>
+        <dc:title>Improve Your Handwriting</dc:title>
+        <dc:creator opf:file-as="Sassoon, Rosemary" opf:role="aut">Rosemary Sassoon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-15T14:48:57.927709+00:00</dc:date>
+        <dc:description>&lt;p&gt;Written by a world-renowned expert on handwriting and a professional calligrapher, this guide shows you how to improve your handwriting by using self-diagnosis tests to identify problems.&lt;/p&gt;</dc:description>
+        <dc:publisher>Teach Yourself</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">EzCLtgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781473688209</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Improve Your Handwriting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Improve Your Handwriting.jpg"/>
+    </guide>
+</package>

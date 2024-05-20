@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b974942-b453-4c63-8ef9-59f5d1c50374</dc:identifier>
+        <dc:title>How to Keep People From Pushing Your Buttons</dc:title>
+        <dc:creator opf:file-as="Ellis, Albert &amp; Lange, Arthur" opf:role="aut">Albert Ellis</dc:creator>
+        <dc:creator opf:file-as="Ellis, Albert &amp; Lange, Arthur" opf:role="aut">Arthur Lange</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-01T15:25:10.881332+00:00</dc:date>
+        <dc:description>&lt;p&gt;Learn to stop letting people and situations upset you and start enjoying life in this classic self-help book by a respected pioneer of psychotherapy. Life can get tough. From unemployment—or overwork—to divorce or remarriage, the challenges of newly blended families, not to mention everyday hassles, stress can feel non-stop. To top it off, technology confronts us with a barrage of seemingly urgent tasks 24/7. It’s no wonder things and people can make you lose your cool. In this landmark book you’ll find a very specific, powerful skill set designed to help you keep any scenario from pushing your buttons—and it works. Rational-Emotive Behavior Therapy (REBT), created by world-renowned therapist Dr. Albert Ellis, provides you with realistic, simple, proven techniques that will significantly reduce your stress levels and help you react effectively, whether the circumstances are professional or personal. Discover: • Ten beliefs we use to let people and situations needlessly push our buttons• A powerful alternative to the kind of thinking that upsets us• The Fatal Foursome—feelings that sabotage you• How to change your irrational thinking using four key steps Whether you’re dealing with colleagues, parents, kids, friends, or lovers, How to Keep People From Pushing Your Buttons will show you how to enjoy an active, vibrant, successful life.&lt;/p&gt;
+
+&lt;p&gt;“No individual—not even Freud himself—has had a greater impact on modern psychotherapy.” —Psychology TodayPraise for How to Keep People From Pushing Your Buttons“Don’t get mad or get even—get placid using these techniques for defusing difficult situations.” —Booklist&lt;/p&gt;</dc:description>
+        <dc:publisher>Citadel Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">DargCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780806538105</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>Anger Management</dc:subject>
+        <dc:subject>Stress Management</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Applied Psychology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="How to Keep People From Pushing Your Buttons"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to Keep People From Pushing Your Buttons.jpg"/>
+    </guide>
+</package>

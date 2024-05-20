@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c5acaca-a9e9-4ca7-96d8-e6cf24e813e0</dc:identifier>
+        <dc:title>How-To Handbook: Shortcuts and Solutions for the Problems of Everyday Life</dc:title>
+        <dc:creator opf:file-as="Oliver, Martin &amp; Johnson, Alexandra" opf:role="aut">Martin Oliver</dc:creator>
+        <dc:creator opf:file-as="Oliver, Martin &amp; Johnson, Alexandra" opf:role="aut">Alexandra Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-23T14:50:54.392233+00:00</dc:date>
+        <dc:description>&lt;p&gt;This handy reference guide is full of tips and tricks that every teen needs to know, from how to unstick chewing gum to how to treat a burn.&lt;/p&gt;</dc:description>
+        <dc:publisher>Zest Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781936976348</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c72c78fe-b04d-4e5d-9f3e-706a3da2c34e</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">znmzDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>self help</dc:subject>
+        <dc:subject>Young Adult Nonfiction</dc:subject>
+        <dc:subject>Health &amp; Daily Living</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="How-To Handbook: Shortcuts and Solutions for the Problems of Everyday Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How-To Handbook_ Shortcuts and Solutions for the Problems of Everyday Life.jpg"/>
+    </guide>
+</package>

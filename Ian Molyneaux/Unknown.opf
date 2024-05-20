@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c19f581f-1e61-44c7-b78c-387ee24bc012</dc:identifier>
+        <dc:title>Unknown</dc:title>
+        <dc:creator opf:file-as="Molyneaux, Ian" opf:role="aut">Ian Molyneaux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-23T15:07:22.827886+00:00</dc:date>
+        <dc:description>&lt;p&gt;This practical book provides a step-by-step approach to testing mission-critical applications for scalability and performance before they're deployed -- a vital topic to which other books devote one chapter, if that.&lt;/p&gt;
+
+&lt;p&gt;Businesses today live and die by network applications and web services. Because of the increasing complexity of these programs, and the pressure to deploy them quickly, many professionals don't take the time to ensure that they'll perform well and scale effectively. The Art of Application Performance Testing explains the complete life cycle of the testing process, and demonstrates best practices to help you plan, gain approval for, coordinate, and conduct performance tests on your applications. With this book, you'll learn to:Set realistic performance testing goalsImplement an effective application performance testing strategyInterpret performance test resultsCope with different application technologies and architecturesUse automated performance testing toolsTest traditional local applications, web-based applications, and web services (SOAs)Recognize and resolves issues that are often overlooked in performance testsWritten by a consultant with 30 years of experience in the IT industry and over 12 years experience with performance testing, this easy-to-read book is illustrated with real-world examples and packed with practical advice. The Art of Application Performance Testing thoroughly explains the pitfalls of an inadequate testing strategy and offers you a robust, structured approach for ensuring that your applications perform well and scale effectively when the need arises.&lt;/p&gt;
+
+&lt;p&gt;"Ian has maintained a vendor-agnostic methodology beautifully in this material. The metrics and graphs, along with background information provided in his case studies, eloquently convey to the reader, 'Methodology above all, tools at your discretion...' Ian's expertise shines through throughout the entire reading experience.&lt;/p&gt;
+
+&lt;p&gt;"-- Matt St. Onge, Enterprise Solution Architect, HCL Technologies America / Teradyne&lt;/p&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596555436</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DccaCe9WzeoC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Systems Analysis &amp; Design</dc:subject>
+        <dc:subject>Web Design</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Unknown"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Unknown.jpg"/>
+    </guide>
+</package>

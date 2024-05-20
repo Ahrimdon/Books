@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a5ff59e-a7c2-42c8-ae79-91bf6d3959d9</dc:identifier>
+        <dc:title>Self Confidence - 52 Proven Ways To Gain Self Confidence, Boost Your Self Esteem and End Self Doubt</dc:title>
+        <dc:creator opf:file-as="Brown, Andy C. E." opf:role="aut">Andy C. E. Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>In Self-Confidence you'll learn how to increase your confidence. No longer will you struggle to get out of your comfort zone. Instead, you'll benefit from an improved self-image, greater self confidence and have more success in your life. Self Confidence contains a series of 52 proven ways to build confidence and increase your self esteem. Each one is suitable for men and women.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>inspiration</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>self confidence</dc:subject>
+        <dc:subject>motivation</dc:subject>
+        <dc:subject>self help</dc:subject>
+        <dc:subject>confidence</dc:subject>
+        <dc:subject>free</dc:subject>
+        <dc:subject>personal transformation</dc:subject>
+        <dc:subject>esteem</dc:subject>
+        <dc:subject>habits</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Self Confidence - 52 Proven Ways To Gain Self Confidence, Boost Your Self Esteem and End Self Doubt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Self Confidence - 52 Proven Ways To Gain Self Confidence, Boost Your Self Esteem and End Self Doubt.jpg"/>
+    </guide>
+</package>

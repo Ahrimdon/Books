@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f76c4962-50c3-40c2-bd8a-e2af05b080a0</dc:identifier>
+        <dc:title>Tune In: Let Your Intuition Guide You to Fulfillment and Flow</dc:title>
+        <dc:creator opf:file-as="Sonia Choquette, Ph.d." opf:role="aut">Sonia Choquette, Ph.d.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-09T15:34:53.198174+00:00</dc:date>
+        <dc:description>&lt;p&gt;Connect with your Spirit with practical, daily routines that will unleash your true spiritual self.&lt;/p&gt;
+
+&lt;p&gt;Join New York Times best-selling author and internationally renowned teacher and intuitive guide Sonia Choquette as she reveals a simple four-step plan for achieving lifelong inner transformation. In this revised and expanded edition of her book The Power of Your Spirit—and distilled from more than 35 years of helping others get in touch with their true selves and discover their souls’ purpose—Sonia provides profound yet accessible wisdom to those seeking to transcend the strictures of an ego-driven existence and experience the joy and fulfillment of an intuitively guided, Spirit-driven life.&lt;/p&gt;
+
+&lt;p&gt;Illuminated with even more engaging and powerful stories of personal transformation from her life and practice than in the original version, this invaluable book instructs seekers at all stages of their spiritual journeys how to directly tune in to their intuition. Sonia also provides additional practical exercises and rituals—including breathing techniques, visualizations, journaling questions, and a step-by-step guide to setting up and using a personal altar—to help us place our intuition at the helm of our spiritual quests and in the heart of our daily lives.&lt;/p&gt;
+
+&lt;p&gt;Whether you’re just beginning to tap into your intuition or are already living in the flow, Tune In offers a wealth of inspiration that will enable you to engage more deeply with your inner Spirit, your authentic Self, and live a more rewarding, fearless, and compassionate life.&lt;/p&gt;</dc:description>
+        <dc:publisher>Hay House, Inc</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">LRxnDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781401944162</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inspiration &amp; Personal Growth</dc:subject>
+        <dc:subject>New Thought</dc:subject>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>book</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>ebook</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Tune In: Let Your Intuition Guide You to Fulfillment and Flow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Tune In_ Let Your Intuition Guide You to Fulfillment and Flow.jpg"/>
+    </guide>
+</package>

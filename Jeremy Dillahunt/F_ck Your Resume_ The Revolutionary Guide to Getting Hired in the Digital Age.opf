@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2215475e-da0f-4acf-98a3-926068081c0e</dc:identifier>
+        <dc:title>F*ck Your Resume: The Revolutionary Guide to Getting Hired in the Digital Age</dc:title>
+        <dc:creator opf:file-as="Dillahunt, Jeremy" opf:role="aut">Jeremy Dillahunt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-01T15:29:13.304232+00:00</dc:date>
+        <dc:description>&lt;p&gt;In his twenty years as a freelance journalist, Jeremy Dillahunt learned a thing or two about job seeking. Chief among them was one undeniable fact—the Internet has changed everything. The old rules no longer apply and if you want to get hired today, your resume just doesn't work. The Internet does. So Jeremy decided to figure out how.&lt;/p&gt;
+
+&lt;p&gt;In 2015, nearly 60 million job openings were accessible to jobseekers nationwide—thanks to the Internet. But this access is only one part of the equation. For many jobseekers, a huge challenge remains—how do I get my resume in front the hiring manager, and how do I use the Internet to do it?F*ck Your Resume is the complete all-in-one-guide to move beyond the traditional resume-for-hire system and use the Internet to optimize one's chances of finding and landing the job. According to Jeremy Dillahunt, the Internet is just not just one way to find a job—it is the only way.&lt;/p&gt;
+
+&lt;p&gt;Built on Dillahunt's research of current hiring trends, F*ck Your Resume nails down the top factors that recruiters and hiring managers consider when evaluating candidates. The Internet-based approach presented in this book provides practical, step-by-step instructions that will help you:Get It Done—create a strong, professional online presence on networking sites such as LinkedIn, Twitter and FacebookPush Yourself—move your profile up the job boards with tips for personal brandingFace It— you're going to show up in a search result, so look good when you doPower Up—connect with a reputable network of professionals who you'd want to be associated withSound Off— this may be your only chance to "talk" to a potential employer, deliver a message that is clear, consistent, and competitiveAdditional features include: Surprising facts and candid advice from top-notch recruiters * "The Worst Resumes Ever" * The Five Secrets of Job-Interview Success * The Five Secrets of Salary Negotiation * and much more&lt;/p&gt;</dc:description>
+        <dc:publisher>Callisto Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781943451258</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7Gi0EAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>Resumes</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="F*ck Your Resume: The Revolutionary Guide to Getting Hired in the Digital Age"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="F_ck Your Resume_ The Revolutionary Guide to Getting Hired in the Digital Age.jpg"/>
+    </guide>
+</package>

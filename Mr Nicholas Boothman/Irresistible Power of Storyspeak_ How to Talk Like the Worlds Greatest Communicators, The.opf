@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41b363a9-fc5a-4321-b949-0d4e21a33bad</dc:identifier>
+        <dc:title>The Irresistible Power of Storyspeak: How to Talk Like the Worlds Greatest Communicators</dc:title>
+        <dc:creator opf:file-as="Boothman, Nicholas" opf:role="aut">Mr Nicholas Boothman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-16T15:43:45.911699+00:00</dc:date>
+        <dc:description>&lt;p&gt;StorySpeak is more than just telling stories... StorySpeak is calling men's perfume "aftershave," branding Albacore tuna as "Chicken of the Sea," and telling the boxing world "I'm going to float like a butterfly and sting like a bee.&lt;/p&gt;
+
+&lt;p&gt;" StorySpeak turns facts into feelings. Genius Communicators throughout history know that 80% of the time people make their decisions based on their emotions even though they think they're being rational. That's why you find StorySpeak used in business, religion, education, healthcare, law, entertainment, community, family and profitable relationships to capture the emotions and arouse enthusiasm. The Irresistible Power of StorySpeak shows how the greatest communicators of all time use language to turn facts into feelings - because facts tell but feelings sell. Nicholas Boothman, author of the best-selling How To Make People Like You in 90 Seconds or Less, brings the ancient art of StorySpeaking into robust 21st century application in The Irresistible Power of StorySpeak. His deceptively casual story-based approach to content is engaging, inspiring, and simple to use. When you tell someone facts they might remember them and believe them or they might not. When you conjure up those same facts in their imagination, where they can see, hear, feel, and even smell and taste them they are much more likely to remember and, more importantly, believe them. When you simply pass on information we call it fact-speak. When you capture the emotions and bring things alive in the imagination we call it StorySpeak. And it pays off. StorySpeakers earn more, out-perform, do better at school, work and home, get hired and promoted faster and get better service in person, and over the phone than fact-speakers.&lt;/p&gt;</dc:description>
+        <dc:publisher>Boothman Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B073SY4W48</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gKWyvAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780995858107</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Irresistible Power of Storyspeak: How to Talk Like the Worlds Greatest Communicators, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Irresistible Power of Storyspeak_ How to Talk Like the Worlds Greatest Communicators, The.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7256c885-b880-41c9-a76e-9152d65c99d6</dc:identifier>
+        <dc:title>Don't Be Such a Scientist: Talking Substance in an Age of Style</dc:title>
+        <dc:creator opf:file-as="Olson, Randy" opf:role="aut">Randy Olson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-17T14:50:33.146734+00:00</dc:date>
+        <dc:description>&lt;p&gt;"You think too much! You mother F@$#%&amp;amp;* think too much! You're nothing but an arrogant, pointy-headed intellectual — I want you out of my classroom and off the premises in five minutes or I'm calling the police and having you arrested for trespassing.&lt;/p&gt;
+
+&lt;p&gt;" — Hollywood acting teacher to Randy Olson, former scientist  After nearly a decade on the defensive, the world of science is about to be restored to its rightful place. But is the American public really ready for science? And is the world of science ready for the American public?  Scientists wear ragged clothes, forget to comb their hair, and speak in a language that even they don't understand. Or so people think. Most scientists don't care how they are perceived, but in our media-dominated age, style points count.  Enter Randy Olson. Fifteen years ago, Olson bid farewell to the science world and shipped off to Hollywood ready to change the world. With films like Flock of Dodos: The Evolution-Intelligent Design Circus (Tribeca '06, Showtime) and Sizzle: A Global Warming Comedy (Outfest '08), he has tried to bridge the cultural divide that has too often left science on the outside looking in.  Now, in his first book, Olson, with a Harvard Ph.&lt;/p&gt;
+
+&lt;p&gt;D. and formerly a tenured professor of marine biology at the University of New Hampshire, recounts the lessons from his own hilarious-and at times humiliating-evolution from science professor to Hollywood filmmaker. In Don't Be Such a Scientist, he shares the secrets of talking substance in an age of style. The key, he argues, is to stay true to the facts while tapping into something more primordial, more irrational, and ultimately more human.  In a book enlivened by a profane acting teacher who made Olson realize that "nobody wants to watch you think," he offers up serious insights and poignant stories. You'll laugh, you may cry, and as a communicator you'll certainly learn the importance of not only knowing how to fulfill, but also how to arouse.&lt;/p&gt;</dc:description>
+        <dc:publisher>Island Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">UuQCkCWP86YC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781597267960</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Don't Be Such a Scientist: Talking Substance in an Age of Style"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Don't Be Such a Scientist_ Talking Substance in an Age of Style.jpg"/>
+    </guide>
+</package>

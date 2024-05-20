@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2dbc11df-1d7c-4480-971f-a29eca80cae6</dc:identifier>
+        <dc:title>Unlocking Greatness: The Unexpected Journey From the Life You Have to the Life You Want</dc:title>
+        <dc:creator opf:file-as="Harary, Charlie &amp; Dagostino, Mark" opf:role="aut">Charlie Harary</dc:creator>
+        <dc:creator opf:file-as="Harary, Charlie &amp; Dagostino, Mark" opf:role="aut">Mark Dagostino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-13T15:13:01.999943+00:00</dc:date>
+        <dc:description>&lt;p&gt;A guide to successfully getting the life you want by changing your perspective and discovering your ideal self.  More often than not, our own mental obstacles are holding us back from the joy, fulfillment, and meaning that we all crave, but by retooling our perspectives, we gain the ability to see the path toward the life we truly desire. Charlie Harary, business executive, professor, speaker, and radio host, combines the wisdom of science, spirituality, and personal growth in practical and understandable terms so you can take the life you have and make it the life you want. Everyone has the extraordinary capacity to transform their life. And it’s easier to do than you might think—in order to get what you want, to achieve that sense of greater life satisfaction, all you need to do is learn how to best use the resources you already have. Based on the latest research into the brain’s neuroplasticity, analysis of ancient wisdom, and exploration of the practices of today’s greatest achievers, he offers guidance and inspiration so you can break through the clutter and confusion of your life and find your true purpose.&lt;/p&gt;</dc:description>
+        <dc:publisher>Rodale</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">A7lIDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781623369767</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Spiritual</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Unlocking Greatness: The Unexpected Journey From the Life You Have to the Life You Want"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Unlocking Greatness_ The Unexpected Journey From the Life You Have to the Life You Want.jpg"/>
+    </guide>
+</package>

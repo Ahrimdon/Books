@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">557740e7-0bb6-46fd-a65f-11dbd9fce185</dc:identifier>
+        <dc:title>Thinking, Fast and Slow</dc:title>
+        <dc:creator opf:file-as="Kahneman, Daniel" opf:role="aut">Daniel Kahneman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-25T15:04:55.845209+00:00</dc:date>
+        <dc:description>&lt;p&gt;Major New York Times bestsellerWinner of the National Academy of Sciences Best Book Award in 2012Selected by the New York Times Book Review as one of the ten best books of 2011A Globe and Mail Best Books of the Year 2011 TitleOne of The Economist's 2011 Books of the Year One of The Wall Street Journal's Best Nonfiction Books of the Year 20112013 Presidential Medal of Freedom RecipientKahneman's work with Amos Tversky is the subject of Michael Lewis's The Undoing Project: A Friendship That Changed Our MindsIn the international bestseller, Thinking, Fast and Slow, Daniel Kahneman, the renowned psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. The impact of overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the profound effect of cognitive biases on everything from playing the stock market to planning our next vacation--each of these can be understood only by knowing how the two systems shape our judgments and decisions.&lt;/p&gt;
+
+&lt;p&gt;Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives--and how we can use different techniques to guard against the mental glitches that often get us into trouble. Winner of the National Academy of Sciences Best Book Award and the Los Angeles Times Book Prize and selected by The New York Times Book Review as one of the ten best books of 2011, Thinking, Fast and Slow is destined to be a classic.&lt;/p&gt;</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">485a4890-2624-488f-b4a1-a5c9809c4433</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780374275631</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SHvzzuCnuv8C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Emotions</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="Thinking, Fast and Slow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Thinking, Fast and Slow.jpg"/>
+    </guide>
+</package>

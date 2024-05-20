@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5d822b4-62ae-4c1c-85a5-eb2fa16e1a10</dc:identifier>
+        <dc:title>The Fine Art of Small Talk</dc:title>
+        <dc:creator opf:file-as="Fine, Debra" opf:role="aut">Debra Fine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-15T15:21:07.617715+00:00</dc:date>
+        <dc:description>&lt;p&gt;Do you spend an abnormal amount of time hiding out in the bathroom or hanging out at the buffet table at social gatherings? Does the thought of striking up a conversation with a stranger make your stomach do flip-flops? Do you sit nervously through job interviews waiting for the other person to speak? Are you a "Nervous Ned or Nellie" when it comes to networking? With practical advice and conversation "cheat sheets," The Fine Art of Small Talk reveals techniques and strategies to feel more comfortable in any type of social situation, from lunch with the boss to an association event to a singles party where you don't know a soul.&lt;/p&gt;</dc:description>
+        <dc:publisher>Small Talk Publishers</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Jii-KVPcVBUC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780971132221</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Communication Studies</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Fine Art of Small Talk, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Fine Art of Small Talk, The.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c8492c6-eadd-4b04-a989-430e1afaac5a</dc:identifier>
+        <dc:title>The Brave Athlete: Calm the F*ck Down and Rise to the Occasion</dc:title>
+        <dc:creator opf:file-as="Marshall, Simon &amp; Paterson, Lesley" opf:role="aut">Simon Marshall</dc:creator>
+        <dc:creator opf:file-as="Marshall, Simon &amp; Paterson, Lesley" opf:role="aut">Lesley Paterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-08T14:58:26.848087+00:00</dc:date>
+        <dc:description>&lt;p&gt;Defeat the thirteen most common mental conundrums athletes face in training and competition, so you can feel confident, suffer like a hero, and handle any stress.&lt;/p&gt;
+
+&lt;p&gt;The Brave Athlete from Dr. Simon Marshall and Lesley Paterson will help you take control of your thoughts and feelings so you can train harder, race faster, and better enjoy your sport. Dr. Marshall is a sport psychology expert who trains the brains of elite professional athletes. Paterson is a three-time world champion triathlete and coach. Together, they offer this innovative, brain training guide that is the first to draw from both clinical science and real-world experience with athletes. That means you won’t find outdated “positive self-talk” or visualization gimmicks here. No, the set of cutting-edge mental skills revealed in The Brave Athlete actually work because they challenge the source of the thoughts and feelings you don’t want. The Brave Athlete is packed with practical, evidence-based solutions to the most common mental challenges athletes face. Which of these sound like you? Why do I have thoughts and feelings I don’t want? I wish I felt more like an athlete. I don’t think I can. I don’t achieve my goals. Other athletes seem tougher, happier, and more badass than me. I feel fat. I don’t cope well with injury. People are worried about how much I exercise. I don’t like leaving my comfort zone. When the going gets tough, the tough leave me behind. I need to harden the f*ck up. I keep screwing up. I don’t handle pressure well. With The Brave Athlete, you can solve these problems to become mentally strong and make your brain your most powerful asset.&lt;/p&gt;</dc:description>
+        <dc:publisher>VeloPress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781937716912</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eGYkDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Sports Psychology</dc:subject>
+        <dc:subject>Training</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Brave Athlete: Calm the F*ck Down and Rise to the Occasion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Brave Athlete_ Calm the F_ck Down and Rise to the Occasion, The.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31143c62-c308-476a-8efd-ced0398a4172</dc:identifier>
+        <dc:title>How to be a Brilliant Mentor: Developing Outstanding Teachers</dc:title>
+        <dc:creator opf:file-as="Wright, Trevor" opf:role="aut">Trevor Wright (edt)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-13T13:42:35+00:00</dc:date>
+        <dc:description>Education, Politics &amp; IR, Sociology &amp; Social Policy</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780203849934</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Politics &amp; IR</dc:subject>
+        <dc:subject>Sociology &amp; Social Policy</dc:subject>
+        <dc:subject>Routledge</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="How to be a Brilliant Mentor: Developing Outstanding Teachers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to be a Brilliant Mentor_ Developing Outstanding Teachers.jpg"/>
+    </guide>
+</package>

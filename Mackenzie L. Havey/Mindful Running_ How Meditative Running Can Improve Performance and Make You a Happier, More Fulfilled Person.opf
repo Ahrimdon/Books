@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cedcb10b-c754-480e-ac4b-d71699090154</dc:identifier>
+        <dc:title>Mindful Running: How Meditative Running Can Improve Performance and Make You a Happier, More Fulfilled Person</dc:title>
+        <dc:creator opf:file-as="Havey, Mackenzie L." opf:role="aut">Mackenzie L. Havey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-28T15:09:49.379998+00:00</dc:date>
+        <dc:description>&lt;p&gt;'A must-read for anyone looking to improve performance and add richer meaning to the sport, activity and art of running.' Dean Karnazes, ultra-marathoner and New York Times bestselling authorDiscover how mindfulness can enhance your running and make you a happier, more fulfilled person.&lt;/p&gt;
+
+&lt;p&gt;By applying mental fitness training to your running regime, you tap into a powerful mind-body connection that not only optimizes sporting performance, but also boosts happiness both on and off the running trails.&lt;/p&gt;
+
+&lt;p&gt;Mindful Running brings together scientific research, expert analysis, and elite athlete contributions to reveal how relating to your mind, body, and surroundings in a new way can help you run longer and faster, as well as offer a boost to your overall mental, emotional, and physical health. Devised with both the competitive and everyday runner in mind, Mackenzie L. Havey introduces an innovative, approachable, and authoritative guide designed to increase self-awareness, develop concentration, and improve endurance. Not only does this have the potential to translate into better running, it can also play a role in training you to endure life's challenges with greater ease and find joy in all things big and small.&lt;/p&gt;
+
+&lt;p&gt;Mindful Running is a total body and mind fitness regime.&lt;/p&gt;</dc:description>
+        <dc:publisher>Bloomsbury Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781472944870</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8MstDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Running &amp; Jogging</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Sports Psychology</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Mindful Running: How Meditative Running Can Improve Performance and Make You a Happier, More Fulfilled Person"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Mindful Running_ How Meditative Running Can Improve Performance and Make You a Happier, More Fulfilled Person.jpg"/>
+    </guide>
+</package>

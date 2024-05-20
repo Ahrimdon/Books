@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1f1d17f-c149-4365-b7cc-ce83c1dc2368</dc:identifier>
+        <dc:title>The Alchemist</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-24T15:34:04.206897+00:00</dc:date>
+        <dc:description>&lt;p&gt;A special 25th anniversary edition of the extraordinary international bestseller, including a new Foreword by Paulo Coelho.&lt;/p&gt;
+
+&lt;p&gt;Combining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.&lt;/p&gt;
+
+&lt;p&gt;Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, to follow our dreams.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062416216</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FzVjBgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Visionary &amp; Metaphysical</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Spirituality</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Christian</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Alchemist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Alchemist, The.jpg"/>
+    </guide>
+</package>

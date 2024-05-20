@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">faa2523a-5d73-4187-b072-cb5c4d561291</dc:identifier>
+        <dc:title>We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency</dc:title>
+        <dc:creator opf:file-as="Olson, Parmy" opf:role="aut">Parmy Olson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-05T04:00:00+00:00</dc:date>
+        <dc:publisher>Hachette Book Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007BGQ9A6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="We Are Anonymous_ Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency.jpg"/>
+    </guide>
+</package>

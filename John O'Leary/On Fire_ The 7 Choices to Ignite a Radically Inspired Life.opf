@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00cd699f-025e-4023-9d00-291c9fa384fb</dc:identifier>
+        <dc:title>On Fire: The 7 Choices to Ignite a Radically Inspired Life</dc:title>
+        <dc:creator opf:file-as="O'Leary, John" opf:role="aut">John O'Leary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-15T14:51:05.918122+00:00</dc:date>
+        <dc:description>&lt;p&gt;In the bestselling tradition of Brene Brown’s Daring Greatly and Nick Vujicic’s Life Without Limits comes a rousing 7-step plan for living a life on fire, filled with hope and possibility—from an inspirational speaker who survived a near-fatal fire at the age of nine and now runs a successful business inspiring people all around the world.&lt;/p&gt;
+
+&lt;p&gt;When John O’Leary was nine years old, he was almost killed in a devastating house fire. With burns on one hundred percent of his body, O’Leary mustered an almost unimaginable amount of inner strength just to survive the ordeal. The insights he gained through this experience and the heroes who stepped into his life to help him through the journey—his family, the medical staff, and total strangers—changed his life. Now he is committed to living life to the fullest and inspiring others to do the same. An incredible and emotionally honest account of triumph over tragedy, On Fire contains O’Leary’s reflections on being that little boy, the life-giving choices made then, and the resulting lessons he learned. O’Leary very clearly shares that without the right people providing the right guidance, at the right time, he never would have made it through those five months in the hospital, let alone the years that followed as he struggled to regain mobility, embrace his story, and ignite clarity of his life’s purpose. On Fire encourages us to seize the power to choose our path and transform our lives from mundane to extraordinary. Once we stop thinking solely on the big moments in our lives, we can begin to focus on those smaller opportunities that tend to pass us by. These are the events—the inflection points in our lives—that can determine how we feel about life now, where we are headed in the future, and how many lives we can impact along the way. We can’t always choose the path we walk, but we can choose how we walk it. Empowering, inspiring, remarkably honest, and heartfelt, O’Leary’s strength and incredible spirit shine through on every page.&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">FlwJCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781501117749</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Mental Health</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Motivational</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Personal Memoirs</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="On Fire: The 7 Choices to Ignite a Radically Inspired Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="On Fire_ The 7 Choices to Ignite a Radically Inspired Life.jpg"/>
+    </guide>
+</package>

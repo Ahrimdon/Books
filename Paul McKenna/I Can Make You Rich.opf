@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82e29ceb-b666-4582-bfca-b604c72a3a52</dc:identifier>
+        <dc:title>I Can Make You Rich</dc:title>
+        <dc:creator opf:file-as="McKenna, Paul" opf:role="aut">Paul McKenna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-15T14:56:02.156777+00:00</dc:date>
+        <dc:description>&lt;p&gt;Do you want to make more money?Do you want to improve the quality of your life?Do you believe you can be rich?What if it's easier than you think? Over the past decade, Paul McKenna, Ph.&lt;/p&gt;
+
+&lt;p&gt;D., has made a study of the mind-set of people who are rich not only in money but in happiness and quality of life. In this groundbreaking book, he uses proven psychological techniques to help you install that same rich mind-set in yourself. In assembling this system, Dr. McKenna has had personal access to some of the wealthiest people in the world. What he's learned is that making money is just a skill, but becoming rich is an art. If you're ready to experience the same levels of creativity, confidence, and business genius as those super-achievers, let the system in this book help you develop the skill and master the art. Soon you'll be seeing the world in an entirely new way, living with more freedom and greater passion than ever before.&lt;/p&gt;</dc:description>
+        <dc:publisher>Hay House, Inc</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">SWD6DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781401949051</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Diet &amp; Nutrition</dc:subject>
+        <dc:subject>Diets</dc:subject>
+        <dc:subject>Weight Loss</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Hypnosis</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Social Classes &amp; Economic Disparity</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="I Can Make You Rich"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="I Can Make You Rich.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9ce4780-c460-4d38-8341-14ec17f13eae</dc:identifier>
+        <dc:title>The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life</dc:title>
+        <dc:creator opf:file-as="Manson, Mark" opf:role="aut">Mark Manson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-13T15:53:27.026539+00:00</dc:date>
+        <dc:description>&lt;p&gt;#1 New York Times Bestseller • More than 10 million Copies SoldIn this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be "positive" all the time so that we can truly become better, happier people.&lt;/p&gt;
+
+&lt;p&gt;For decades, we’ve been told that positive thinking is the key to a happy, rich life. "F**k positivity," Mark Manson says. "Let’s be honest, shit is f**ked and we have to live with it.&lt;/p&gt;
+
+&lt;p&gt;" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. The Subtle Art of Not Giving a F**k is his antidote to the coddling, let’s-all-feel-good mindset that has infected modern society and spoiled a generation, rewarding them with gold medals just for showing up.&lt;/p&gt;
+
+&lt;p&gt;Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.&lt;/p&gt;
+
+&lt;p&gt;" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.&lt;/p&gt;
+
+&lt;p&gt;There are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, The Subtle Art of Not Giving a F*ck is a refreshing slap for a generation to help them lead contented, grounded lives.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">yng_CwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062457738</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B019MMUA8S</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Mental Health</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <dc:subject>Memory Improvement</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>Time Management</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Topic</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Subtle Art of Not Giving a F_ck_ A Counterintuitive Approach to Living a Good Life, The (1).jpg"/>
+    </guide>
+</package>

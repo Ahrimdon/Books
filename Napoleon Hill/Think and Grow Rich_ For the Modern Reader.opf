@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63497ee4-da01-43c0-b27c-f29ccd79d261</dc:identifier>
+        <dc:title>Think and Grow Rich: For the Modern Reader</dc:title>
+        <dc:creator opf:file-as="Hill, Napoleon" opf:role="aut">Napoleon Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-20T15:08:12.642853+00:00</dc:date>
+        <dc:description>&lt;p&gt;This book provides a synopsis of the original 1937 text of Hill’s masterpiece, Think and Grow Rich. It extracts the key principles, instructions, and examples so that the modern professional, regardless of how busy he or she is, can benefit from the timeless wisdom found in Hill’s book. To receive the greatest possible benefit from its wisdom, read no more than one chapter per day, allowing the space and time to fully digest its insights and to enable your imaginative faculties to act on the thought impulses generated thereby. You will also undoubtedly find your progress magnified by working through this content in the setting of a book club or study group, wherein the mastermind principle can be applied to reach higher-level orders of thinking. Regardless of your approach, when you commit yourself to practicing the steps outlined in this book, you will surely open yourself up to great personal growth and momentum toward achieving your dreams. “Anything the mind can conceive and believe, it can achieve.” Within this one line is distilled a success formula so simple that anyone can apply it—and yet so demanding that only a minority of the population ever fully lives it out. Upon it was built a success philosophy that explains how human desires can be translated into material reality, a framework that rests upon the power of thoughts to seek expression in physical form. Through this singular concept, the world’s wealthiest and most successful individuals—rich in money, relationships, power, peace of mind, and social standing—have built and maintained their prosperity. It is the foundational principle of Napoleon Hill’s Science of Success program, an achievement philosophy that effectively helped end the Great Depression and that has since made more millionaires, cultural icons, and thought leaders than any other. Hill was born in 1883 in a one-room cabin on the Pound River in Wise County, Virginia. He began his writing career at age thirteen as a mountain reporter for small-town newspapers. In 1908, as a young special investigator for a nationally known business magazine, he was sent to interview the great steel magnate Andrew Carnegie. During that interview, Carnegie shared the secrets that had enabled him to acquire hundreds of millions of dollars—a magic law of the human mind, a little-known psychological principle that was amazing in its power. Believing that this magic formula should be shared with those who did not have the time or resources to discover it on their own, Carnegie tasked Hill with spending twenty years or more developing this principle into a philosophy of personal success. This research would be conducted without pay; Carnegie merely provided Hill with access to over five hundred of America’s greatest business leaders in order to test his success formula. In 1937, after twenty-nine years of research and writing, Hill published Think and Grow Rich, which contains the thirteen success principles that form the core of the Science of Success. Since its release, it has sold over one hundred million copies worldwide. No literary work in the personal development genre has had a greater creative impact than Think and Grow Rich.&lt;/p&gt;</dc:description>
+        <dc:publisher>Sound Wisdom</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">nzYGEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781640952508</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Motivational</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="Think and Grow Rich: For the Modern Reader"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Think and Grow Rich_ For the Modern Reader.jpg"/>
+    </guide>
+</package>

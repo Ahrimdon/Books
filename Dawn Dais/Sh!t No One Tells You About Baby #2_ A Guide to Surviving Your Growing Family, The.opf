@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9db1cd4a-32b0-450f-85da-3bc0416c0855</dc:identifier>
+        <dc:title>The Sh!t No One Tells You About Baby #2: A Guide to Surviving Your Growing Family</dc:title>
+        <dc:creator opf:file-as="Dais, Dawn" opf:role="aut">Dawn Dais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-25T15:31:39.381657+00:00</dc:date>
+        <dc:description>&lt;p&gt;The third book in Dawn Dais's popular Sh!t No One Tells You series covers all a parent needs to know once the reality of having two children settles in. Around the time your first baby turns a year old your brain will turn on you. For reasons that are still not understood by science, the sleep deprivation and postpartum hormones you barely survived with your first baby fade from memory and will be replaced with idyllic images of your growing child. This is when your brain, having officially lost all regard for your well-being, begins to fantasize about a second baby. And for the first time since becoming a parent these thoughts don't make you break out in hives. Before you know it, you are dressing your first child in "I'm Going to be a Big Sister!" T-shirts and catalog-shopping for bunk beds. This will be fantastic! But then that familiar morning sickness kicks in. And your adorable 18-month-old transforms into a two-year-old terror. That's when those hives start to return. With Dawn Dais's trademark witty banter, The Sh!t No One Tells You About Baby #2 includes chapters such as "You Have Officially Lost Control of the Situation," "Siblings Aren't Nearly as Adorable as You Imagined," "You'll Have a Favorite," and "Having Kids Looks a Lot Easier on TV."&lt;/p&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ljXXCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781580056328</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Parenting</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Life Stages</dc:subject>
+        <dc:subject>Infants &amp; Toddlers</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Sh!t No One Tells You About Baby #2: A Guide to Surviving Your Growing Family, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Sh!t No One Tells You About Baby #2_ A Guide to Surviving Your Growing Family, The.jpg"/>
+    </guide>
+</package>

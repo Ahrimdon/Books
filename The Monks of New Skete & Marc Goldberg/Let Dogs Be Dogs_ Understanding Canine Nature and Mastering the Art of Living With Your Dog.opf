@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51e4a57e-c730-4359-a727-8beb202dd3b1</dc:identifier>
+        <dc:title>Let Dogs Be Dogs: Understanding Canine Nature and Mastering the Art of Living With Your Dog</dc:title>
+        <dc:creator opf:file-as="Skete, The Monks of New &amp; Goldberg, Marc" opf:role="aut">The Monks of New Skete</dc:creator>
+        <dc:creator opf:file-as="Skete, The Monks of New &amp; Goldberg, Marc" opf:role="aut">Marc Goldberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-12T14:51:52.815346+00:00</dc:date>
+        <dc:description>&lt;p&gt;America's foremost authorities on dog care and training distill decades of experience in a comprehensive "foundational" guide for dog owners.&lt;/p&gt;
+
+&lt;p&gt;No matter what training method or techniques you use with your dog, the training is unlikely to be optimally successful unless it is predicated on an understanding of the dog's true nature. Dogs need food, water, exercise and play, rest, veterinary care--the basics. But since dogs naturally want to be led, they also need focused and compassionate guidance.&lt;/p&gt;
+
+&lt;p&gt;Through abundant stories and case studies, the authors reveal how canine nature manifests itself in various behaviors, some potentially disruptive to domestic accord, and show how in addressing these behaviors you can strengthen the bond with your dog as well as keep the peace.&lt;/p&gt;
+
+&lt;p&gt;The promise of this book is that, especially in an ever-accelerating world filled with digital distractions, you can learn from your dog's example how to live in the moment, thereby enriching your life immeasurably.&lt;/p&gt;</dc:description>
+        <dc:publisher>Little, Brown</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">bGpVAQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316387934</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Pets / Dogs / General</dc:subject>
+        <dc:subject>Pets</dc:subject>
+        <dc:subject>Dogs</dc:subject>
+        <dc:subject>Training &amp; Showing</dc:subject>
+        <dc:subject>Pets / Dogs / Training</dc:subject>
+        <dc:subject>Pets / General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Let Dogs Be Dogs: Understanding Canine Nature and Mastering the Art of Living With Your Dog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Let Dogs Be Dogs_ Understanding Canine Nature and Mastering the Art of Living With Your Dog.jpg"/>
+    </guide>
+</package>

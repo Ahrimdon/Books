@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a191cba0-f0ff-4f15-8971-7a9e11c579c9</dc:identifier>
+        <dc:title>HOLD: How to Find, Buy, and Rent Houses for Wealth</dc:title>
+        <dc:creator opf:file-as="Chader, Steve &amp; Doty, Jennice &amp; McKissack, Jim &amp; McKissack, Linda &amp; Papasan, Jay &amp; Keller, Gary" opf:role="aut">Steve Chader</dc:creator>
+        <dc:creator opf:file-as="Chader, Steve &amp; Doty, Jennice &amp; McKissack, Jim &amp; McKissack, Linda &amp; Papasan, Jay &amp; Keller, Gary" opf:role="aut">Jennice Doty</dc:creator>
+        <dc:creator opf:file-as="Chader, Steve &amp; Doty, Jennice &amp; McKissack, Jim &amp; McKissack, Linda &amp; Papasan, Jay &amp; Keller, Gary" opf:role="aut">Jim McKissack</dc:creator>
+        <dc:creator opf:file-as="Chader, Steve &amp; Doty, Jennice &amp; McKissack, Jim &amp; McKissack, Linda &amp; Papasan, Jay &amp; Keller, Gary" opf:role="aut">Linda McKissack</dc:creator>
+        <dc:creator opf:file-as="Chader, Steve &amp; Doty, Jennice &amp; McKissack, Jim &amp; McKissack, Linda &amp; Papasan, Jay &amp; Keller, Gary" opf:role="aut">Jay Papasan</dc:creator>
+        <dc:creator opf:file-as="Chader, Steve &amp; Doty, Jennice &amp; McKissack, Jim &amp; McKissack, Linda &amp; Papasan, Jay &amp; Keller, Gary" opf:role="aut">Gary Keller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-25T15:57:29.816438+00:00</dc:date>
+        <dc:description>&lt;p&gt;USA TODAY BESTSELLER Take HOLD of your financial future! Learn how to obtain financial freedom through real estate. The final book in Gary Keller’s national best-selling Millionaire Real Estate Investor trilogy teaches the proven, reliable real estate investing process to achieve financial wealth: 1. Find – the right property for the right terms and at the right price. 2. Analyze – an offer to make sure the numbers and terms make sense. 3. Buy – an investment property where you make money going in. 4. Manage – a property until it’s paid for or you have a large amount of equity to leverage. 5. Grow – your way to wealth and financial freedom.&lt;/p&gt;</dc:description>
+        <dc:publisher>McGraw Hill Professional</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">bPn6bYzNjK0C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780071797054</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Training</dc:subject>
+        <dc:subject>management</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="HOLD: How to Find, Buy, and Rent Houses for Wealth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="HOLD_ How to Find, Buy, and Rent Houses for Wealth.jpg"/>
+    </guide>
+</package>

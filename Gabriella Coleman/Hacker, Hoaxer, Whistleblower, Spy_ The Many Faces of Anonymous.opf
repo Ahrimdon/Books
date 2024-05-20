@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7bde15c-43be-48d9-8f01-997bf889cdee</dc:identifier>
+        <dc:title>Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous</dc:title>
+        <dc:creator opf:file-as="Coleman, Gabriella" opf:role="aut">Gabriella Coleman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-06T15:33:16.022441+00:00</dc:date>
+        <dc:description>&lt;p&gt;The ultimate book on the worldwide movement of hackers, pranksters, and activists collectively known as Anonymous—by the writer the Huffington Post says “knows all of Anonymous’ deepest, darkest secrets”“A work of anthropology that sometimes echoes a John le Carré novel.” —Wired Half a dozen years ago, anthropologist Gabriella Coleman set out to study the rise of this global phenomenon just as some of its members were turning to political protest and dangerous disruption (before Anonymous shot to fame as a key player in the battles over WikiLeaks, the Arab Spring, and Occupy Wall Street). She ended up becoming so closely connected to Anonymous that the tricky story of her inside–outside status as Anon confidante, interpreter, and erstwhile mouthpiece forms one of the themes of this witty and entirely engrossing book. The narrative brims with details unearthed from within a notoriously mysterious subculture, whose semi-legendary tricksters—such as Topiary, tflow, Anachaos, and Sabu—emerge as complex, diverse, politically and culturally sophisticated people. Propelled by years of chats and encounters with a multitude of hackers, including imprisoned activist Jeremy Hammond and the double agent who helped put him away, Hector Monsegur, Hacker, Hoaxer, Whistleblower, Spy is filled with insights into the meaning of digital activism and little understood facets of culture in the Internet age, including the history of “trolling,” the ethics and metaphysics of hacking, and the origins and manifold meanings of “the lulz.”&lt;/p&gt;</dc:description>
+        <dc:publisher>Verso Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">khVPEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781781689837</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Anarchism</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Social Activists</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Media Studies</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Hacker, Hoaxer, Whistleblower, Spy_ The Many Faces of Anonymous.jpg"/>
+    </guide>
+</package>

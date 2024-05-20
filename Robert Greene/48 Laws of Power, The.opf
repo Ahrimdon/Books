@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f09fbf58-c7dc-4bea-9ecf-6f8c9c90adc5</dc:identifier>
+        <dc:title>The 48 Laws of Power</dc:title>
+        <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-01T15:26:48.211740+00:00</dc:date>
+        <dc:description>&lt;p&gt;Amoral, cunning, ruthless, and instructive, this multi-million-copy New York Times bestseller is the definitive manual for anyone interested in gaining, observing, or defending against ultimate control – from the author of The Laws of Human Nature.  In the book that People magazine proclaimed “beguiling” and “fascinating,” Robert Greene and Joost Elffers have distilled three thousand years of the history of power into 48 essential laws by drawing from the philosophies of Machiavelli, Sun Tzu, and Carl Von Clausewitz and also from the lives of figures ranging from Henry Kissinger to P.T. Barnum.   Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game.&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780140280197</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ae51f044-5d76-419f-9d7f-e5a00d717bc6</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HIZPEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Motivational</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="48 Laws of Power, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="48 Laws of Power, The.jpg"/>
+    </guide>
+</package>

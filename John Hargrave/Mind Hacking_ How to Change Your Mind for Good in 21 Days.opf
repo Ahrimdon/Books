@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f285831-85b4-4aa3-87be-03e51924abde</dc:identifier>
+        <dc:title>Mind Hacking: How to Change Your Mind for Good in 21 Days</dc:title>
+        <dc:creator opf:file-as="Hargrave, John" opf:role="aut">John Hargrave</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-05T15:12:13.682669+00:00</dc:date>
+        <dc:description>&lt;p&gt;Have you ever wished you could reprogram your brain, just as a hacker would a computer? In this 3-step guide to improving your mental habits, learn to take charge of your mind and banish negative thoughts, habits, and anxiety—in just twenty-one days!A seasoned author, comedian, and entrepreneur, Sir John Hargrave once suffered from unhealthy addictions, anxiety, and poor mental health. After cracking the code to unlocking his mind’s full and balanced potential, his entire life changed for the better. In Mind Hacking, Hargrave reveals the formula that allowed him to overcome negativity and eliminate mental problems at their core.&lt;/p&gt;
+
+&lt;p&gt;Through a 21-day, 3-step training program, this book lays out a simple yet comprehensive approach to help you rewire your brain and achieve healthier thought patterns for a better quality of life. It hinges on the repetitive steps of analyzing, imagining, and reprogramming to help break down barriers preventing you from reaching your highest potential.&lt;/p&gt;
+
+&lt;p&gt;By treating your brain as a computer and mastering Hargrave’s mind hacking formula, you, too, can create a positive, permanent shift in your thinking, leading to personal and professional triumphs in all areas of life.&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781501105678</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-L3_BgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Mind Hacking: How to Change Your Mind for Good in 21 Days"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Mind Hacking_ How to Change Your Mind for Good in 21 Days.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03a46c5e-5551-41f4-8ec6-6a2d7b02ad56</dc:identifier>
+        <dc:title>How to Fix Absolutely Anything: A Homeowner's Guide</dc:title>
+        <dc:creator opf:file-as="Instructables.com" opf:role="aut">Instructables.com</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-27T15:06:34.259310+00:00</dc:date>
+        <dc:description>&lt;p&gt;The one book that shows you how to fix anything anywhere in your home!There are a million things that can go wrong in your home. Faucets leak. Floorboards creak. Paint flakes. Chairs break. With How to Fix Absolutely Anything, you’ll have step-by-step instructions to tackle even the most confounding repairs in your home, including:• Installing a toilet• Replacing the belts on your washer and dryer• Patching up a hole in the wall• Bringing a power adapter back to life• Re-covering chairs• Getting wax out of your carpet• And many more!From changing lightbulbs to fixing a kitchen cabinet hinge, How to Fix Absolutely Anything is a collection of the most indispensible advice and tips from people across the world who face the same problems you do. Hundreds of color photographs and easy-to-follow instructions make this book perfect for all levels of experience. It’s a no-brainer for any homeowner, and the one gift to get any friend, family member, or loved one living on their own for the first time. Broke the microwave handle and don’t know what to do? With How to Fix Absolutely Anything, the solution is only a few pages away.&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Cj-CDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781629142630</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Sustainable Living</dc:subject>
+        <dc:subject>House &amp; Home</dc:subject>
+        <dc:subject>Maintenance &amp; Repair</dc:subject>
+        <dc:subject>and the...</dc:subject>
+        <dc:subject>Sustainability &amp; Green Design</dc:subject>
+        <dc:subject>&lt;p&gt;&lt;B&gt;The one book that shows you how to fix anything anywhere in your home!&lt;/B&gt;&lt;BR&gt;There are a million things that can go wrong in your home. Faucets leak. Floorboards creak. Paint flakes. Chairs break. With &lt;I&gt;How to Fix Absolutely Anything&lt;/I&gt;</dc:subject>
+        <dc:subject>Remodeling &amp; Renovation</dc:subject>
+        <dc:subject>you'll have step-by-step instructions to tackle even the most confounding repairs in your home</dc:subject>
+        <dc:subject>&lt;I&gt;How to Fix Absolutely Anything&lt;/I&gt; is a collection of the most indispensible advice and tips from people across the world who face the same problems you do. Hundreds of color photographs and easy-to-follow instructions make this book perfect for all levels of experience. It's a no-brainer for any homeowner</dc:subject>
+        <dc:subject>Do-It-Yourself</dc:subject>
+        <dc:subject>Carpentry</dc:subject>
+        <dc:subject>Design &amp; Construction</dc:subject>
+        <dc:subject>including:&lt;BR&gt;&lt;li&gt; Installing a toilet&lt;BR&gt;&lt;li&gt; Replacing the belts on your washer and dryer&lt;BR&gt;&lt;li&gt; Patching up a hole in the wall&lt;BR&gt;&lt;li&gt; Bringing a power adapter back to life&lt;BR&gt;&lt;li&gt; Re-covering chairs&lt;BR&gt;&lt;li&gt; Getting wax out of your carpet&lt;BR&gt;&lt;li&gt; And many more!&lt;BR&gt;From changing lightbulbs to fixing a kitchen cabinet hinge</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="How to Fix Absolutely Anything: A Homeowner's Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to Fix Absolutely Anything_ A Homeowner's Guide.jpg"/>
+    </guide>
+</package>

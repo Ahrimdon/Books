@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78a39239-a07b-460c-82c2-fc19df9dd784</dc:identifier>
+        <dc:title>As a Dog Thinketh: Daily Words of Wisdom for Dog People</dc:title>
+        <dc:creator opf:file-as="Anstee, Monique" opf:role="aut">Monique Anstee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-15T15:47:49.168781+00:00</dc:date>
+        <dc:description>&lt;p&gt;Daily reflections, guidance, and sound advice from a top trainer and competitor.&lt;/p&gt;
+
+&lt;p&gt;Confused by your canine? Monique Anstee believes we have made dog training much too hard, when it really is very simple. Anstee teaches you to think differently, which will help you get out of your mind and into the moment.&lt;/p&gt;
+
+&lt;p&gt;Monique Anstee trains dogs kindly, but effectively, and her clients love her for her honesty. Now, she has compiled a book of daily wisdom in which she shares her most deeply held values and philosophies, and her most sought-after lessons gleaned from more than 25 years in the business. With her signature no-nonsense approach and wry sense of humour, Anstee shares reflections that will inspire a-ha moments, nurture your confidence, and invite you to be more authentic with yourself and with your dog.&lt;/p&gt;
+
+&lt;p&gt;When should you reward, and when should you tell him to try harder? How can you create ten moments a day where you can praise your dog sincerely? How can you use your own thoughts, beliefs, and body language to improve communication with your dog? How are we creating reactivity in our dogs?Anstee offers a new and inspiring way to think about your relationship with your dog, tempered with the clear-eyed perspective of one who has seen dogs and their owners find solutions to all kinds of problems. She empowers her readers to affirm their instincts with their dog, and to believe in the power to change together, each and every day.&lt;/p&gt;</dc:description>
+        <dc:publisher>Touchwood Editions</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">s9gwDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781771512381</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pets</dc:subject>
+        <dc:subject>Dogs</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Training &amp; Showing</dc:subject>
+        <dc:subject>Essays &amp; Narratives</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="As a Dog Thinketh: Daily Words of Wisdom for Dog People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="As a Dog Thinketh_ Daily Words of Wisdom for Dog People.jpg"/>
+    </guide>
+</package>

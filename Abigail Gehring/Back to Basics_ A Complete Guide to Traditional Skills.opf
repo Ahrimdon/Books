@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61a47aba-88c2-402d-b876-6dd7307a63e8</dc:identifier>
+        <dc:title>Back to Basics: A Complete Guide to Traditional Skills</dc:title>
+        <dc:creator opf:file-as="Gehring, Abigail" opf:role="aut">Abigail Gehring</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-17T15:17:53.574758+00:00</dc:date>
+        <dc:description>&lt;p&gt;Anyone who wants to learn basic living skills—the kind employed by our forefathers—and adapt them for a better life in the twenty-first century need look no further than this eminently useful, full-color guide. Countless readers have turned to Back to Basics for inspiration and instruction, escaping to an era before power saws and fast food restaurants and rediscovering the pleasures and challenges of a healthier, greener, and more self-sufficient lifestyle. Now newly updated, the hundreds of projects, step-by-step sequences, photographs, charts, and illustrations in Back to Basics will help you dye your own wool with plant pigments, graft trees, raise chickens, craft a hutch table with hand tools, and make treats such as blueberry peach jam and cheddar cheese. The truly ambitious will find instructions on how to build a log cabin or an adobe brick homestead. More than just practical advice, this is also a book for dreamers—even if you live in a city apartment you will find your imagination sparked, and there's no reason why you can't, for example, make a loom and weave a rag rug. Complete with tips for old-fashioned fun (square dancing calls, homemade toys, and kayaking tips), this may be the most thorough book on voluntary simplicity available.&lt;/p&gt;</dc:description>
+        <dc:publisher>Skyhorse Publishing Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f7437f0d-5a4a-4df8-82c7-ec1e37882bfd</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781602392335</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">83Ai79ldObMC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Development</dc:subject>
+        <dc:subject>Sustainable Development</dc:subject>
+        <dc:subject>Crafts &amp; Hobbies</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Gardening</dc:subject>
+        <dc:subject>Garden Design</dc:subject>
+        <dc:subject>Herbs</dc:subject>
+        <dc:subject>Organic</dc:subject>
+        <dc:subject>Techniques</dc:subject>
+        <dc:subject>House &amp; Home</dc:subject>
+        <dc:subject>Design &amp; Construction</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Remodeling &amp; Renovation</dc:subject>
+        <dc:subject>Cleaning; Caretaking &amp; Organizing</dc:subject>
+        <dc:subject>Sustainable Living</dc:subject>
+        <dc:subject>Small Spaces</dc:subject>
+        <dc:subject>Personal &amp; Practical Guides</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Back to Basics: A Complete Guide to Traditional Skills"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Back to Basics_ A Complete Guide to Traditional Skills.jpg"/>
+    </guide>
+</package>

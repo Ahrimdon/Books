@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">feb9e5c6-b8e1-4715-9c78-620c31aed10d</dc:identifier>
+        <dc:title>Welcome to Your Brain: Why You Lose Your Car Keys but Never Forget How to Drive and Other Puzzles of Everyday Behavior</dc:title>
+        <dc:creator opf:file-as="Aamodt, Sandra &amp; Wang, Sam" opf:role="aut">Sandra Aamodt</dc:creator>
+        <dc:creator opf:file-as="Aamodt, Sandra &amp; Wang, Sam" opf:role="aut">Sam Wang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-02T15:50:14.076318+00:00</dc:date>
+        <dc:description>&lt;p&gt;Does drinking really kill brain cells? Does listening to Mozart make your baby smarter? For all the mileage we've gotten from our own brains, most of us have essentially no idea how they work. We're easily susceptible to myths (like the "fact" that we use only 10% of our brains) and misconceptions (like the ones perpetrated by most Hollywood movies), probably because we've never known where to turn for the truth.&lt;/p&gt;
+
+&lt;p&gt;But neurologists Sandra Aamodt and Sam Wang are glad to help. In this funny, accessible book, we get a guided tour of our own minds, what they're made of, how they work, and how they can go wrong. Along the way, we get a host of diagrams, quizzes, and "cocktail party tips" that shed light on the questions we nag each other about. (Can a head injury make you forget your own name? Are dolphins smarter than chimpanzees?)Fun and surprisingly engrossing, Welcome to Your Brain shows you how your brain works, and how you can make it work better.&lt;/p&gt;</dc:description>
+        <dc:publisher>Bloomsbury Publishing USA</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1596915234</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781596915237</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">PeBcCAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Neuropsychology</dc:subject>
+        <dc:subject>Human Anatomy &amp; Physiology</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Neurophysiology-Popular works.</dc:subject>
+        <dc:subject>Brain-Popular works</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Neuroscience</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Welcome to Your Brain: Why You Lose Your Car Keys but Never Forget How to Drive and Other Puzzles of Everyday Behavior"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Welcome to Your Brain_ Why You Lose Your Car Keys but Never Forget How to Drive and Other Puzzles of Everyday Behavior.jpg"/>
+    </guide>
+</package>

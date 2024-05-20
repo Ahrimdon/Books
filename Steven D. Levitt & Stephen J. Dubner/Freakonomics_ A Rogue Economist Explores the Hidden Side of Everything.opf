@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8531b416-c337-4ed4-be04-674c796d085c</dc:identifier>
+        <dc:title>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</dc:title>
+        <dc:creator opf:file-as="Levitt, Steven D. &amp; Dubner, Stephen J." opf:role="aut">Steven D. Levitt</dc:creator>
+        <dc:creator opf:file-as="Levitt, Steven D. &amp; Dubner, Stephen J." opf:role="aut">Stephen J. Dubner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-25T15:27:35.986742+00:00</dc:date>
+        <dc:description>&lt;p&gt;Which is more dangerous, a gun or a swimming pool?   What do schoolteachers and sumo wrestlers have in common?   How much do parents really matter?   These may not sound like typical questions for an economist to ask. But Steven D. Levitt is not a typical economist. He studies the riddles of everyday life—from cheating and crime to parenting and sports—and reaches conclusions that turn conventional wisdom on its head. Freakonomics is a groundbreaking collaboration between Levitt and Stephen J. Dubner, an award-winning author and journalist. They set out to explore the inner workings of a crack gang, the truth about real estate agents, the secrets of the Ku Klux Klan, and much more. Through forceful storytelling and wry insight, they show that economics is, at root, the study of incentives—how people get what they want or need, especially when other people want or need the same thing.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060731335</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5gCzmAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Probability &amp; Statistics - General</dc:subject>
+        <dc:subject>Sociological aspects</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Economics Of Special Subjects</dc:subject>
+        <dc:subject>Economics - General</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Popular Culture - General</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>Behavioral Economics</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Psychological aspects</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Freakonomics_ A Rogue Economist Explores the Hidden Side of Everything.jpg"/>
+    </guide>
+</package>

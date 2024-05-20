@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f22e07f-6170-4b29-a6c3-9d623e80519d</dc:identifier>
+        <dc:title>One Up on Wall Street: How to Use What You Already Know to Make Money in the Market</dc:title>
+        <dc:creator opf:file-as="Lynch, Peter &amp; Rothchild, John" opf:role="aut">Peter Lynch</dc:creator>
+        <dc:creator opf:file-as="Lynch, Peter &amp; Rothchild, John" opf:role="aut">John Rothchild</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-28T15:00:52.345257+00:00</dc:date>
+        <dc:description>&lt;p&gt;A legendary mutual-fund manager explores the advantages average investors have over professionals and how they can use them to achieve financial success.&lt;/p&gt;
+
+&lt;p&gt;America’s most successful money manager tells how average investors can beat the pros by using what they know. According to Lynch, investment opportunities are everywhere. From the supermarket to the workplace, we encounter products and services all day long. By paying attention to the best ones, we can find companies in which to invest before the professional analysts discover them. When investors get in early, they can find the “tenbaggers,” the stocks that appreciate tenfold from the initial investment. A few tenbaggers will turn an average stock portfolio into a star performer.&lt;/p&gt;
+
+&lt;p&gt;Lynch offers easy-to-follow advice for sorting out the long shots from the no-shots by reviewing a company’s financial statements and knowing which numbers really count. He offers guidelines for investing in cyclical, turnaround, and fast-growing companies.&lt;/p&gt;
+
+&lt;p&gt;As long as you invest for the long term, Lynch says, your portfolio can reward you. This timeless advice has made One Up on Wall Street a #1 bestseller and a classic book of investment know-how.&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439126158</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">TYOdIrFJ2SkC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="One Up on Wall Street: How to Use What You Already Know to Make Money in the Market"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="One Up on Wall Street_ How to Use What You Already Know to Make Money in the Market.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d002a898-1224-4a7a-a88c-7beb9be74c96</dc:identifier>
+        <dc:title>Getting Sh*t Done: How to Power Through Your Tasks in One Sitting</dc:title>
+        <dc:creator opf:file-as="Cain, Stefan" opf:role="aut">Stefan Cain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-11T15:39:42.956951+00:00</dc:date>
+        <dc:description>&lt;p&gt;Want to learn a new programming language today? Want to finish reading the new bestseller you just bought? Want to finish the proposal that's been at the back of your mind the past few weeks? You want to be productive. You want to be empowered. It's in your nature. You want to set out on a day's worth of tasks, and finish your day with all of them done. If you have a major task, you want to finish it...not tomorrow...not next week...you want to finish it today. Getting Sh*t Done will teach you how to elevate your productivity to new heights, and complete major tasks in just one sitting. In this book, you will learn: Some simple organizational frameworks to use and reuse for each and every task A technique for corralling your agenda  How to have a heart of an athlete and the stubbornness of a mule in order to get the tasks done Getting Sh*t Done will revolutionize the way you go about your tasks. With a few simple steps, you can get sh*t done TODAY and triple your productivity. No more procrastination, no more inefficiencies.&lt;/p&gt;</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XJH2J2Q</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WUfiAQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781544208145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Getting Sh*t Done: How to Power Through Your Tasks in One Sitting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Getting Sh_t Done_ How to Power Through Your Tasks in One Sitting.jpg"/>
+    </guide>
+</package>

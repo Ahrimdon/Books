@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c22e3e69-2136-4d0a-9ead-17e57d58abc7</dc:identifier>
+        <dc:title>The Driving Book: Everything New Drivers Need to Know but Don't Know to Ask</dc:title>
+        <dc:creator opf:file-as="Gravelle, Karen" opf:role="aut">Karen Gravelle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-15T15:16:15.667869+00:00</dc:date>
+        <dc:description>&lt;p&gt;This book has everything teen drivers need to navigate through tricky new territory--on the road and at home!Even after taking Driver's Ed and passing that dreaded road test, there are so many things new drivers need to learn about the practical aspects of driving that will only come from experience. Handing over the keys is a traumatic rite of passage for parents, and they will sleep better knowing that The Driving Book is in their teens' glove compartments. Covering virtually every scenario a new driver may face, from changing a tire to negotiating privileges with parents to handling a car in bad weather, Karen Gravelle helps teen drivers navigate through tricky new territory.&lt;/p&gt;
+
+&lt;p&gt;This reissue features updated information for today's tech-savvy teen drivers.&lt;/p&gt;</dc:description>
+        <dc:publisher>Bloomsbury Publishing USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780802721518</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ww-gr5W_5N4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Juvenile Nonfiction</dc:subject>
+        <dc:subject>Transportation</dc:subject>
+        <dc:subject>Cars &amp; Trucks</dc:subject>
+        <dc:subject>Automotive</dc:subject>
+        <dc:subject>Driver Education</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Driving Book: Everything New Drivers Need to Know but Don't Know to Ask, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Driving Book_ Everything New Drivers Need to Know but Don't Know to Ask, The.jpg"/>
+    </guide>
+</package>

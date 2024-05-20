@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea58e0b3-22ae-403e-b594-7140f29dc2c7</dc:identifier>
+        <dc:title>Fearless Job Hunting</dc:title>
+        <dc:creator opf:file-as="Bill Knaus, Sam Klarreich, Russell Grieger, &amp; Knaus, Nancy" opf:role="aut">Bill Knaus, Sam Klarreich, Russell Grieger,</dc:creator>
+        <dc:creator opf:file-as="Bill Knaus, Sam Klarreich, Russell Grieger, &amp; Knaus, Nancy" opf:role="aut">Nancy Knaus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-17T16:52:30+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Fearless Job Hunting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Fearless Job Hunting.jpg"/>
+    </guide>
+</package>

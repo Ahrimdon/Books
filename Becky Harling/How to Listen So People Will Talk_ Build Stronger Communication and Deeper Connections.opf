@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9e2dd1b-4cfe-4cd8-8ec1-d73bf15a2a91</dc:identifier>
+        <dc:title>How to Listen So People Will Talk: Build Stronger Communication and Deeper Connections</dc:title>
+        <dc:creator opf:file-as="Harling, Becky" opf:role="aut">Becky Harling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-01T15:11:25.779152+00:00</dc:date>
+        <dc:description>&lt;p&gt;How Listening Well Builds Stronger Communication and Deeper ConnectionsNo relationship is perfect--but it can be better. The secret to stronger relationships isn't to become more charming or funny or to solve the world's problems or to just try harder. All you have to do is listen. It's that simple. Yet our noisy culture hasn't equipped us to do this. With warmth and a touch of humor, personal coach and expert communicator Becky Harling shares simple, practical listening tools that will help you become a person others are drawn to and want to spend time with, as well as how to:· be fully present· offer understanding instead of advice· ask great questions· create a sense of safety and trust· manage your body language· and more!When you learn to listen well, your marriage will grow stronger, your parenting will flourish, your friendships will thrive, and your influence at work will increase. You will be amazed at how one simple act can transform the hearts of others--as well as your own.&lt;/p&gt;</dc:description>
+        <dc:publisher>Bethany House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781441231147</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ipsnDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian Life</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Relationships</dc:subject>
+        <dc:subject>Christian Living/Personal Growth;REL012100;REL012070</dc:subject>
+        <dc:subject>Christian Living</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="How to Listen So People Will Talk: Build Stronger Communication and Deeper Connections"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to Listen So People Will Talk_ Build Stronger Communication and Deeper Connections.jpg"/>
+    </guide>
+</package>

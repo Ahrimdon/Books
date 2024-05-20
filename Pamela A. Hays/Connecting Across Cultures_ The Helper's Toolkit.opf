@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02ccd5cb-a217-4c85-abf0-61ef00d865a5</dc:identifier>
+        <dc:title>Connecting Across Cultures: The Helper's Toolkit</dc:title>
+        <dc:creator opf:file-as="Hays, Pamela A." opf:role="aut">Pamela A. Hays</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-24T15:09:00.746963+00:00</dc:date>
+        <dc:description>&lt;p&gt;Chock-full of fun exercises, surprising tips, and real-world case examples, Pamela A. Hays' Connecting Across Cultures: The Helper's Toolkit provides both students and professionals in health care and social service with the skills to develop respectful, smooth relationships with their clients and with the community at large. The book provides practical, hands-on strategies for connecting with people across differences related to ethnicity, religion, nationality, sexual orientation, disability, age, gender, and class. Since cross-cultural relationships add a level of difficulty to all the usual relationship challenges, this book will be applicable for almost every relationship you may encounter.&lt;/p&gt;</dc:description>
+        <dc:publisher>SAGE</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Gb0XLyQD-ewC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781452217918</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Interpersonal Relations</dc:subject>
+        <dc:subject>Psychotherapy</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Cultural &amp; Social</dc:subject>
+        <dc:subject>Social Work</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Connecting Across Cultures: The Helper's Toolkit"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Connecting Across Cultures_ The Helper's Toolkit.jpg"/>
+    </guide>
+</package>

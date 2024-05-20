@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cab52bb-046a-41c9-af12-3664eba5a6a1</dc:identifier>
+        <dc:title>The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom</dc:title>
+        <dc:creator opf:file-as="Haidt, Jonathan" opf:role="aut">Jonathan Haidt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-26T15:14:39.125485+00:00</dc:date>
+        <dc:description>&lt;p&gt;"The most brilliant and lucid analysis of virtue and well-being in the entire literature of positive psychology. For the reader who seeks to understand happiness, my advice is: Begin with Haidt.&lt;/p&gt;
+
+&lt;p&gt;"  —Martin E.P. Seligman, University of Pennsylvania and author of Authentic HappinessThe Happiness Hypothesis is a book about ten Great Ideas. Each chapter is an attempt to savor one idea that has been discovered by several of the world's civilizations—to question it in light of what we now know from scientific research, and to extract from it the lessons that still apply to our modern lives and illuminate the causes of human flourishing. Award-winning psychologist Jonathan Haidt shows how a deeper understanding of the world's philosophical wisdom and its enduring maxims—like "do unto others as you would have others do unto you," or "what doesn't kill you makes you stronger"—can enrich and transform our lives.&lt;/p&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003E749TE</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780465003686</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gHEv9yzj_a4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Mind &amp; Body</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>Cognitive Neuroscience &amp; Cognitive Neuropsychology</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Neuroscience</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Ancient &amp; Classical</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Happiness Hypothesis_ Finding Modern Truth in Ancient Wisdom, The.jpg"/>
+    </guide>
+</package>

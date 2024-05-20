@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23774236-e03f-4919-bb54-d4d3c46f6d7f</dc:identifier>
+        <dc:title>The Kindness Challenge: Thirty Days to Improve Any Relationship</dc:title>
+        <dc:creator opf:file-as="Feldhahn, Shaunti" opf:role="aut">Shaunti Feldhahn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-20T15:24:22.289544+00:00</dc:date>
+        <dc:description>&lt;p&gt;Have we ever needed kindness more? Learn which ways of acting, speaking, and thinking will improve your relationships and make the greatest difference for your life. “This book has the potential to change the emotional climate of our culture.”—Gary Chapman, New York Times bestselling author of The Five Love Languages Think of your toughest relationship. Think of a relationship that is good but could be great. Think of a group of people that drives you nuts. You want to show more kindness and generosity, but sometimes you’re just tired, stretched, and frustrated. Besides, would small actions make that big a difference? Yes! After years of extensive research, Shaunti Feldhahn has concluded that kindness is a superpower. It can change any relationship, make your life easier and better, and transform our culture. But how does it work? And how can you show kindness when you don’t feel like it? In The Kindness Challenge, Shaunti explores . . .• Three simple acts that make all the difference in any relationship (with a spouse, child, co-worker, brother-in-law . . .)• Whether kindness is ever the wrong approach • The seven ways you may be unkind and never realize it • Eight types of kindness—and which might be the best fit for you• Ten sneaky obstacles that get in the way of giving praise• Practical ways to persevere when kindness is tough• How kindness in marriage leads to benefits in the bedroom (yes, really!)• Why your acts of kindness today can help transform the world With self-assessments, day-to-day tips, a 30-day challenge, and specific kindness ideas, The Kindness Challenge can make your toughest relationships better and your good relationships great—starting today.&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">321e2d36-b81a-4d6c-9c1f-7b1a85b36fe4</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ot_UCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781601423597</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Marriage &amp; Long-Term Relationships</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Christian Living</dc:subject>
+        <dc:subject>MAM</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Kindness Challenge: Thirty Days to Improve Any Relationship, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Kindness Challenge_ Thirty Days to Improve Any Relationship, The.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01f63c8a-287c-41a0-a051-82a860bacf38</dc:identifier>
+        <dc:title>Mindfulness Is Better Than Chocolate: A Practical Guide to Enhanced Focus and Lasting Happiness in a World of Distractions</dc:title>
+        <dc:creator opf:file-as="Michie, David" opf:role="aut">David Michie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-06T14:55:12.718920+00:00</dc:date>
+        <dc:description>&lt;p&gt;“Rigorous and playful . . . an excellent perspective on the ‘why’ and the ‘how’ of mindfulness practice. This book is better than chocolate!” —Tal Ben-Shahar, New York Times–bestselling author of Happier   Distractions are everywhere. Our thoughts drift to what we need to do tomorrow or what went wrong yesterday. Even pleasurable things—like eating chocolate—don’t receive our full attention. As a result, we miss out on joy that is easily within reach.   Drawing on both Buddhist teachings and contemporary science, David Michie teaches us how to experience a mind free of stress and dullness and gives us the tools to rewire our brains for happiness. “Mindfulness” is paying attention to the present moment, deliberately and nonjudgmentally—and those who practice it experience a wealth of benefits:   ·Reduced stress ·Stronger immune systems ·More ease in breaking bad habits ·Improved self-esteem ·Enhanced mental clarity ·Sharper memory ·Overall well-being ·and better-tasting chocolate!   “Full of great advice relevant to most people’s lives, with a constant undercurrent of humor.” —NOVA Magazine&lt;/p&gt;</dc:description>
+        <dc:publisher>The Experiment + ORM</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">hPOIBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781615192595</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1615192581</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Rituals &amp; Practice</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Meditations</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Mindfulness Is Better Than Chocolate: A Practical Guide to Enhanced Focus and Lasting Happiness in a World of Distractions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Mindfulness Is Better Than Chocolate_ A Practical Guide to Enhanced Focus and Lasting Happiness in a World of Distractions.jpg"/>
+    </guide>
+</package>

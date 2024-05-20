@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f6d1e75-354b-4f79-b505-1333a94afe92</dc:identifier>
+        <dc:title>The Memory Bible: An Innovative Strategy for Keeping Your Brain Young</dc:title>
+        <dc:creator opf:file-as="Small, Gary M.D." opf:role="aut">Gary Small</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-10T14:48:16.973238+00:00</dc:date>
+        <dc:description>&lt;p&gt;Clear, concise, prescriptive steps for improving memory loss and keeping the brain young—from one of the world's top memory experts.&lt;/p&gt;
+
+&lt;p&gt;Everybody forgets things sometimes—from your keys to your lunch date to the name of an acquaintance. According to Dr. Gary Small, the director of the UCLA Center on Aging, much of this forgetfulness can be eliminated easily through his innovative memory exercises and brain fitness program—now available for the first time in a book. Using Small's recent scientific discoveries, The Memory Bible can immediately improve your mental performance. One of the ten commandments that Dr. Small has pioneered to improve your memory immediately is LOOK, SNAP, CONNECT:1: LOOK: actively observe what you want to learn2: SNAP: create a vivid snapshot and memorable image3: CONNECT: visualize a link to associate imagesIn addition, Dr. Small's comprehensive program includes a "brain diet" of memory-enhancing foods and a list of the most effective drugs, as well as a workbook with a weekly and daily calendar. Remember, as Dr. Small says, "Great memories are not born, they are made.&lt;/p&gt;
+
+&lt;p&gt;"&lt;/p&gt;</dc:description>
+        <dc:publisher>Hachette Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781401398538</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NYyZAAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Memory Improvement</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Diseases &amp; Conditions</dc:subject>
+        <dc:subject>Alzheimer's &amp; Dementia</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Neuroscience</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Memory Bible: An Innovative Strategy for Keeping Your Brain Young, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Memory Bible_ An Innovative Strategy for Keeping Your Brain Young, The.jpg"/>
+    </guide>
+</package>

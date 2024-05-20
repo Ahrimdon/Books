@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2ff5dd7-513e-4277-9123-63737c725b20</dc:identifier>
+        <dc:title>Put the Disciple Into Discipline: Parenting With Love and Limits</dc:title>
+        <dc:creator opf:file-as="MacPherson, Erin &amp; Schuknecht, Ellen" opf:role="aut">Erin MacPherson</dc:creator>
+        <dc:creator opf:file-as="MacPherson, Erin &amp; Schuknecht, Ellen" opf:role="aut">Ellen Schuknecht</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-20T15:00:03.741940+00:00</dc:date>
+        <dc:description>&lt;p&gt;PUT THE DISCIPLE INTO DISCIPLINE gives parents the tools they need to truly disciple their kids through their most trying discipline situations.&lt;/p&gt;
+
+&lt;p&gt;What do you say when your kid has really messed up?How do you respond when your three-year-old is throwing pennies at other carts as you walk through the aisles at Target? Or when your eight-year-old daughter rolls her eyes in a dramatic fit of preteen angst? Or when your sixteen-year-old son is lying as he attempts to go somewhere that he never should be?These are the tough moments in parenting.&lt;/p&gt;
+
+&lt;p&gt;But they are also the moments that will define your kids.&lt;/p&gt;
+
+&lt;p&gt;We want to give parents the tools they need to truly disciple their kids through their most trying discipline situations. With these tools, parents can guide their kids' hearts towards the God who loves them deeply, and survive those pull-out-your-hair parenting moments. We pray thatPUT THE DISCIPLE INTO DISCIPLINEwill help parents to connect with their kids in a heartfelt way so that their kids, in turn, can connect with the God who created them to be truly and imperfectly His.&lt;/p&gt;</dc:description>
+        <dc:publisher>FaithWords</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">KCUvDQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781478918110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion / Christian Life / Inspirational</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Inspirational</dc:subject>
+        <dc:subject>Religion / Christian Life / Relationships</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Religion / Christian Life / Family</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Spiritual Growth</dc:subject>
+        <dc:subject>Religion / Christian Life / General</dc:subject>
+        <dc:subject>Religion / Christian Life / Spiritual Growth</dc:subject>
+        <dc:subject>Christian Living</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Put the Disciple Into Discipline: Parenting With Love and Limits"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Put the Disciple Into Discipline_ Parenting With Love and Limits.jpg"/>
+    </guide>
+</package>

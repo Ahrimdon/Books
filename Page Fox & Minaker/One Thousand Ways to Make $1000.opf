@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd3e036c-c037-4554-bf74-ecd7314c3c03</dc:identifier>
+        <dc:title>One Thousand Ways to Make $1000</dc:title>
+        <dc:creator opf:file-as="Fox, Page &amp; Minaker" opf:role="aut">Page Fox</dc:creator>
+        <dc:creator opf:file-as="Fox, Page &amp; Minaker" opf:role="aut">Minaker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-20T14:54:24.380556+00:00</dc:date>
+        <dc:description>&lt;p&gt;One Thousand Ways to Make $1000 is the book that Warren Buffett's biographers credit with shaping  the legendary investor's business acumen and giving him his trademark appreciation of compound interest. After pulling a copy of One Thousand Ways off a library shelf at age eleven and devouring the practical business advice, Buffett declared that he would be a millionaire by the time he was 35. Written in the immediate, conversational style of Dale Carnegie's How to Win Friends and Influence People, this book is full of inventive ideas on how to make money through excellent salesmanship, hard work, and resourcefulness. While some of the ideas may seem quaint today-goat dairying, manufacturing motor-driven chairs, and renting out billiard tables to local  establishments are among the money-making ideas presented- the underlying fundamentals of business explained in these pages remain as solid as they were over seventy years ago. Covering a wide spectrum of  topics including investing, marketing, merchandising, sales, customer  relations, and raising money for charity, One Thousand Ways to Make  $1000 is both a durable, classic business book and a fascinating  portrait of determined entrepreneurship in Depression-era America. Every effort has been made to reproduce the content exactly as it was  originally presented. "I like numbers, it started before I can remember,"" Buffett tells a group of Omaha Central High School students in the film. A voracious reader his entire life, at age seven he read a book he borrowed from the library, One Thousand Ways to Make $1000, and, inspired by its lessons, began selling Coca-Cola, gum and newspapers. His father, a salesman who survived the Depression, was elected to Congress when Buffett was 12, moving the family to Washington. Displaced and unhappy, Buffett lost interest in academics, attending the University of Nebraska at his father's insistence; he was turned down for admission by the Harvard Business School. This rejection was propitious: Buffett discovered that two of his financial idols, Ben Graham and David Dodd, taught at the Columbia Business School; he wrote them a letter and was accepted there. From Graham he learned what he calls the "two rules of investing" "Rule #1: Never lose money. Rule #2: Never forget Rule #1."&lt;/p&gt;</dc:description>
+        <dc:publisher>Stanford Inversiones Spa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0170AKILI</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SHR8wwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789563101287</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Mergers &amp; Acquisitions</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="One Thousand Ways to Make $1000"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="One Thousand Ways to Make $1000.jpg"/>
+    </guide>
+</package>

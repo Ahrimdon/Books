@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35b26ac1-7d38-431e-8834-eef54cd25fce</dc:identifier>
+        <dc:title>A Monk's Guide to a Clean House and Mind</dc:title>
+        <dc:creator opf:file-as="Matsumoto, Shoukei" opf:role="aut">Shoukei Matsumoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-04T14:56:49.110575+00:00</dc:date>
+        <dc:description>&lt;p&gt;'Think of your house as an allegory for your body. Keep cleaning it every day.' In this Japanese bestseller a Buddhist monk explains the traditional cleaning techniques that will help cleanse not only your house - but your soul.&lt;/p&gt;
+
+&lt;p&gt;Sweep away your worldly cares with this guide to living a cleaner, calmer, happier life. Drawing on ancient Zen household techniques, Buddhist monk Keisuke Matsumoto shows you how a few simple changes to your daily habits - from your early morning routine, through mealtimes to last thing at night - will turn your home into a peaceful, ordered refuge from today's busy world.'Surprisingly calming ... The most unusual self-help book of 2018' Daily Mail&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Books Limited</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B073W2K7HT</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781846149702</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vYorDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Zen</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Inspiration &amp; Personal Growth</dc:subject>
+        <dc:subject>House &amp; Home</dc:subject>
+        <dc:subject>Cleaning; Caretaking &amp; Organizing</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Monk's Guide to a Clean House and Mind, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Monk's Guide to a Clean House and Mind, A.jpg"/>
+    </guide>
+</package>

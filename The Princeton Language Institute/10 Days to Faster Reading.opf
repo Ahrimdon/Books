@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">620ed599-e5af-4abf-80a4-b1a16dc89609</dc:identifier>
+        <dc:title>10 Days to Faster Reading</dc:title>
+        <dc:creator opf:file-as="The Princeton Language Institute" opf:role="aut">The Princeton Language Institute</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Jump-Start Your Reading Skills! Speed reading used to require months of training. Now you can rev up your reading in just a few minutes a day. With quizzes to determine your present reading level and exercises to introduce new skills quickly, 10 Days to Faster Reading will improve your reading comprehension and speed as it shows you how to: * Break the Bad Habits That Slow You Down * Develop Your Powers of Concentration * Cut Your Reading Time in Half * Use Proven, Specially Designed Reading Techniques * Boost the Power of Your Peripheral Vision * Learn How to Scan and Skim a Written Report ...And All in 10 Days!&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Abby Marks Beale is the founder of The Corporate Educator (formerly The Reading Edge), a speaking and training business that specializes in helping busy people work smarter, faster, and just plain better. She is also the creator of "Rev It Up Reading," a popular open enrollment workshop that helps experienced readers get up to speed with what they read. Her extensive client list includes Fortune 500 companies, associations, schools, government agencies, and individuals. She is a member of the ASCD Faculty (Association of Supervision and Curriculum Development), an exclusive team of expert consultants who craft, design, and deliver individualized professional development programs for educators. Abby is also the author of 10 Days to Faster Reading (Warner Books, 2001). Abby holds a B.A. in Spanish from Boston University and an M.S. in Adult Learning from Southern Connecticut State University. For more information, log on to Abby's web site at TheCorporateEducator.com.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00M9P6JVS</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B002YNS0PI</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="7"/>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="10 Days to Faster Reading"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="10 Days to Faster Reading.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32136c54-6467-4580-8aa3-7dd82db78f79</dc:identifier>
+        <dc:title>Happy Is the New Healthy: 31 Ways to Relax, Let Go, and Enjoy Life NOW!</dc:title>
+        <dc:creator opf:file-as="Romanelli, Dave" opf:role="aut">Dave Romanelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-06T14:49:26.390756+00:00</dc:date>
+        <dc:description>&lt;p&gt;Our lives have become so busy that we are living in a constant state of go, go, go. What did you do last Thursday? What about two weeks ago Monday? Our days are so consumed with emails, telephone calls, errands, status updates, texts, and tweets that entire days go by without one single moment of joy. And we wonder why we are stressed out, anxiety-ridden, tired, walking zombies.&lt;/p&gt;
+
+&lt;p&gt;Lifestyle and wellness guru Yeah Dave offers a fresh take on what it means to be well and reminds the reader that happiness leads to health, not health to happiness. This book shares simple, immediate ways to feel celebrate life and feel better. This isn’t about green juices and crazy diet regimens.&lt;/p&gt;
+
+&lt;p&gt;To get you started, Dave asks the reader to take one minute out of our day—1:11pm for example—to stop and RELAX. Dave's mantra: The one who celebrates the small victories and simple pleasures wins the game of life over and over again!&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781629149776</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zyqCDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Inspiration &amp; Personal Growth</dc:subject>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>Spiritual</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Meditations</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Emotions</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="Happy Is the New Healthy: 31 Ways to Relax, Let Go, and Enjoy Life NOW!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Happy Is the New Healthy_ 31 Ways to Relax, Let Go, and Enjoy Life NOW!.jpg"/>
+    </guide>
+</package>

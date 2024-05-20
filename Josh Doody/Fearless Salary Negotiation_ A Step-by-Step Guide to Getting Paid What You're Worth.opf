@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">247dd592-7afd-408d-8fb4-8c0cb3380d73</dc:identifier>
+        <dc:title>Fearless Salary Negotiation: A Step-by-Step Guide to Getting Paid What You're Worth</dc:title>
+        <dc:creator opf:file-as="Doody, Josh" opf:role="aut">Josh Doody</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-08T07:00:00+00:00</dc:date>
+        <dc:publisher>Josh Doody</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B018T8VH3I</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Fearless Salary Negotiation: A Step-by-Step Guide to Getting Paid What You're Worth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Fearless Salary Negotiation_ A Step-by-Step Guide to Getting Paid What You're Worth.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2014cdf-4bf3-41f6-b2ea-4b6c64797dc8</dc:identifier>
+        <dc:title>Awareness Games: Playing With Your Mind to Create Joy</dc:title>
+        <dc:creator opf:file-as="O'Connor, Brian Tom" opf:role="aut">Brian Tom O'Connor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-09T14:51:15.026191+00:00</dc:date>
+        <dc:description>&lt;p&gt;New Cover! (Same great content...) Awareness Games are enjoyable but surprisingly deep games you can play with your own mind. Kind of like meditating only more fun and less work. And not so serious. Awareness Games are ways to play with your mind to point it towards the infinite well of happiness and joy that lies within each of us. Play with pure awareness and discover the background of all experience, where happiness is hiding in plain sight. ALSO AVAILABLE IN SPANISH: Jeugos de consciencia: Juega con tu mente para ser más feliz.&lt;/p&gt;</dc:description>
+        <dc:publisher>Slippery Mind</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01BLUB9YS</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">N6qgjwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780692628638</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Awareness Games: Playing With Your Mind to Create Joy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Awareness Games_ Playing With Your Mind to Create Joy.jpg"/>
+    </guide>
+</package>

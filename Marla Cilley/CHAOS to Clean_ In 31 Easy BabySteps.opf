@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">362</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96d7c9ef-caec-4cd8-b7c9-7056bea217c5</dc:identifier>
+        <dc:title>CHAOS to Clean: In 31 Easy BabySteps</dc:title>
+        <dc:creator opf:file-as="Cilley, Marla" opf:role="aut">Marla Cilley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-15T15:56:40.839626+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Having you been living in CHAOS (Can't Have Anyone Over Syndrome)? This book will help both our new FlyBabies, and our "not so new" FlyBabies. Day by day, FlyLady shows you in 31 steps how to rid your home (and your head) of the CHAOS that you've been living with for years. This CHAOS beats us down and robs us of precious time with our family and friends. By utilising simple steps to build sound routines, you will learn how to live a clutter-free life, which is something we all deserve, after all.&lt;/p&gt;
+
+&lt;p&gt;"--Provided by publisher&lt;/p&gt;</dc:description>
+        <dc:publisher>FlyLady, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XGS5CST</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZmZ2tAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780692844267</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chaos to Clean</dc:subject>
+        <dc:subject>House &amp; Home</dc:subject>
+        <dc:subject>Cleaning; Caretaking &amp; Organizing</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="CHAOS to Clean: In 31 Easy BabySteps"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="CHAOS to Clean_ In 31 Easy BabySteps.jpg"/>
+    </guide>
+</package>

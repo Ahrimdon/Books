@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecef5247-cc14-4e5b-99ae-944da2e2950d</dc:identifier>
+        <dc:title>Work: How to Find Joy and Meaning in Each Hour of the Day</dc:title>
+        <dc:creator opf:file-as="Neumann, Rachel" opf:role="aut">Thich Nhat Hanh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-08T14:52:01.403785+00:00</dc:date>
+        <dc:description>&lt;p&gt;Thich Nhat Hanh presents Buddhist teachings for daily life—revealing how we can apply meditation and mindfulness to business, leadership, and livelihood. We all need to “Chop Wood and Carry Water”. Most of us experience work, hardship, traffic jams, and everything modern urban life offers. But by carefully examining our everyday choices, we can move in the direction of right livelihood. We can be a lotus in a muddy world by building mindful communities, learning about compassionate living, or by coming to understand the concept of “Buddha nature.”    In Thich Nhat Hanh’s latest teachings on applied Buddhism for both the workplace and daily life, he offers guidance on how to:   • Start your day, with advice on how to set intentions • Practice mindful breathing, walking, and even meditation at work • Deal with tense daily scenarios, with 30 ways to reduce workplace stress • Be present and relaxed at home and with family • Create a new way of working that is built on peace, compassion, and co-responsiblity  • And much more! Work also discusses mindful consumption, or the mindful use of limited resources. Instead of “Living Large in Lean Times” or “Ramen to Riches,” we can learn to appreciate living less large and think about what kind of riches we want for ourselves and others.   Designed for beginner and experienced meditation practitioners, Work shows us how we can apply Buddhism to everyday life—including how we lead and do business.&lt;/p&gt;</dc:description>
+        <dc:publisher>Parallax Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781937006259</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VdUSvVKEsWYC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Zen</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Work: How to Find Joy and Meaning in Each Hour of the Day"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Work_ How to Find Joy and Meaning in Each Hour of the Day.jpg"/>
+    </guide>
+</package>

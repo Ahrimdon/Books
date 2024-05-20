@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">411a7736-4f17-4723-9ee7-62fc52ac413c</dc:identifier>
+        <dc:title>Brain Hacks: 200+ Ways to Boost Your Brain Power</dc:title>
+        <dc:creator opf:file-as="Adams Media" opf:role="aut">Adams Media</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-06T15:49:25.577807+00:00</dc:date>
+        <dc:description>&lt;p&gt;Discover more than 300 quick tips and exercises to help you optimize your mental performance and improve brain health.&lt;/p&gt;
+
+&lt;p&gt;Everyone wants to be at their best mentally, and Brain Hacks provides you with more than 300 actionable tips and exercises you can use right away to help you achieve and maintain peak mental performance. Topics covers include: -Proper nutrition and brain superfoods -Brain-boosting vitamins, minerals, herbs, and supplements -Stress management techniques -Natural mood-enhancing activities -Exercises that stimulate and challenge the brain With straightforward, simple advice, Brain Hacks will teach you how to keep your brain sharp and functioning at optimal levels.&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">KLUkDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781507205730</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Healthy Living &amp; Personal Hygiene</dc:subject>
+        <dc:subject>Diseases &amp; Conditions</dc:subject>
+        <dc:subject>Nervous System (Incl. Brain)</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Memory Improvement</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:22+00:00"/>
+        <meta name="calibre:title_sort" content="Brain Hacks: 200+ Ways to Boost Your Brain Power"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Brain Hacks_ 200_ Ways to Boost Your Brain Power.jpg"/>
+    </guide>
+</package>

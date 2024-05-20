@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">593fcb66-d342-4b61-8597-0401898937eb</dc:identifier>
+        <dc:title>How to Stop Feeling Like Sh*t: 14 Habits That Are Holding You Back From Happiness</dc:title>
+        <dc:creator opf:file-as="Owen, Andrea" opf:role="aut">Andrea Owen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-02T14:50:21.547144+00:00</dc:date>
+        <dc:description>&lt;p&gt;No-punches-pulled advice to women who want to stop undermining their own happiness once and for all.  From the bitchy inner critic and imposter complex to the prison of perfectionism, Andrea Owen—an internationally sought-after life coach—distils what’s behind the 14 silent habits that are holding women back from experiencing life to the fullest and provides a roadmap for overcoming them.  The straight-shooting advice in How to Stop Feeling Like Sh*t will have you ditching your self-destructive tendencies and feeling happier in no time.&lt;/p&gt;</dc:description>
+        <dc:publisher>Schwartz Books Pty. Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781743820155</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2m0-DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>happiness</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="How to Stop Feeling Like Sh*t: 14 Habits That Are Holding You Back From Happiness"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to Stop Feeling Like Sh_t_ 14 Habits That Are Holding You Back From Happiness.jpg"/>
+    </guide>
+</package>

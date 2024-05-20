@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">197dfdb2-2607-4714-b6aa-0a81b9dc2a38</dc:identifier>
+        <dc:title>Money-Smart Kids</dc:title>
+        <dc:creator opf:file-as="Vaz-Oxlade, Gail" opf:role="aut">Gail Vaz-Oxlade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Want to teach your kids to see money as a tool, not a trap? Determined to help them avoid the mistakes you made? As a parent you want the best for your kids. You work hard to provide every advantage you can. You want them to be safe, smart and healthy. Yet, when it comes to money, it’s a whole different story. If you’re like most people, you’d rather run a mile through a desert with a camel on your back than talk financial realities with your children. Your parents told you that talking about money just wasn’t polite. Look where that left you! A healthy, balanced attitude towards money begins when kids are just toddling, so pull your head out of the sand and roll up your sleeves. Gail Vaz-Oxlade, Canada’s #1 personal finance expert, will teach you everything your children need to know. Gail believes that building confidence and money skills starts with an age-appropriate allowance. In Money-Smart Kids, she’ll show you how to start an allowance and use it effectively to help&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Gail Vaz-Oxlade is the former host of &lt;em&gt;Till Debt Do Us Part&lt;/em&gt; and &lt;em&gt;Princess&lt;/em&gt; and the #1 bestselling author of books that have included &lt;em&gt;Debt-Free Forever&lt;/em&gt; and &lt;em&gt;Money Rules&lt;/em&gt;. She has had a divorce three times (almost), raised kids, run a business, made mistakes and fixed them, and continues to believe the world is a wonderful place. &lt;/p&gt;</dc:description>
+        <dc:publisher>Collins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781443412292</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1443412295</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Money-Smart Kids"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Money-Smart Kids.jpg"/>
+    </guide>
+</package>

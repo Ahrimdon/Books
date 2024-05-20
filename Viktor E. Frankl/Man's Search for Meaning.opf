@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b91d5a91-b1ab-452d-b17c-db718b48aa2c</dc:identifier>
+        <dc:title>Man's Search for Meaning</dc:title>
+        <dc:creator opf:file-as="Frankl, Viktor E." opf:role="aut">Viktor E. Frankl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-01T15:19:30.113578+00:00</dc:date>
+        <dc:description>&lt;p&gt;Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished. Based on his own experience and the experiences of others he treated later in his practice, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory-known as logotherapy, from the Greek word logos ("meaning")-holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful.&lt;/p&gt;
+
+&lt;p&gt;At the time of Frankl's death in 1997, Man's Search for Meaning had sold more than 10 million copies in twenty-four languages. A 1991 reader survey for the Library of Congress that asked readers to name a "book that made a difference in your life" found Man's Search for Meaning among the ten most influential books in America.&lt;/p&gt;</dc:description>
+        <dc:publisher>Beacon Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780807014288</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8SERAAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>Existential</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <dc:subject>Holocaust</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Judaism</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Man's Search for Meaning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Man's Search for Meaning.jpg"/>
+    </guide>
+</package>

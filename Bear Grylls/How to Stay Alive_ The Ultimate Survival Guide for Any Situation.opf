@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5154361d-f457-44fa-8b75-bf956601ae1e</dc:identifier>
+        <dc:title>How to Stay Alive: The Ultimate Survival Guide for Any Situation</dc:title>
+        <dc:creator opf:file-as="Grylls, Bear" opf:role="aut">Bear Grylls</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-02T15:15:27.148725+00:00</dc:date>
+        <dc:description>&lt;p&gt;THE ULTIMATE SURVIVAL GUIDE FROM THE WORLD'S LEADING SURVIVAL EXPERT.___________Do you know how to... Survive a bear attack? Make fire from virtually nothing? Fly a plane in an emergency? Survive in the most extreme conditions?Bear Grylls does.&lt;/p&gt;
+
+&lt;p&gt;There is barely a terrain he hasn't conquered or an extreme environment he hasn't experienced. From his time in 21 SAS, through to his extraordinary expeditions in the toughest corners of each of the seven continents, Bear has accumulated an astonishing wealth of survival knowledge.&lt;/p&gt;
+
+&lt;p&gt;Now, for the first time, he is putting all his expertise into one book. How To Stay Alive will teach you all of the essential skills you need to survive in the modern world.___________What readers are saying about How to Stay Alive:***** 'I bought this as a gift for a friend and, I have to admit, ended up keeping it.'  ***** 'This book has been a great source of information for the family, it's great for facts, can't wait to fly a plane in an emergency.'  ***** 'Genuinely essential - every home should have one!'  ***** 'In any emergency this is the one thing you take when you run! Could be the thing that keeps you alive.'NEVER GIVE UP, Bear's extraordinary new autobiography, is available to pre-order now&lt;/p&gt;</dc:description>
+        <dc:publisher>Transworld</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781448127252</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B06X9F3KPL</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">psc1DgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Adventurers &amp; Explorers</dc:subject>
+        <dc:subject>Safety &amp; Security</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Survival &amp; Emergency Preparedness</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Animals</dc:subject>
+        <dc:subject>Outdoor Skills</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Wildlife</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:21+00:00"/>
+        <meta name="calibre:title_sort" content="How to Stay Alive: The Ultimate Survival Guide for Any Situation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to Stay Alive_ The Ultimate Survival Guide for Any Situation.jpg"/>
+    </guide>
+</package>

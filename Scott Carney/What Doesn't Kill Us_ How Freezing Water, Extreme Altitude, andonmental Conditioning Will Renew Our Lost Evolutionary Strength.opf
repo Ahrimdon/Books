@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1157e586-582e-43cf-ac63-ec6ba6c6270a</dc:identifier>
+        <dc:title>What Doesn't Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength</dc:title>
+        <dc:creator opf:file-as="Carney, Scott" opf:role="aut">Scott Carney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-11T15:36:30.765713+00:00</dc:date>
+        <dc:description>&lt;p&gt;What Doesn't Kill Us, a New York Times bestseller, traces our evolutionary journey back to a time when survival depended on how well we adapted to the environment around us. Our ancestors crossed deserts, mountains, and oceans without even a whisper of what anyone today might consider modern technology. Those feats of endurance now seem impossible in an age where we take comfort for granted. But what if we could regain some of our lost evolutionary strength by simulating the environmental conditions of our ancestors? Investigative journalist and anthropologist Scott Carney takes up the challenge to find out: Can we hack our bodies and use the environment to stimulate our inner biology? Helping him in his search for the answers is Dutch fitness guru Wim Hof, whose ability to control his body temperature in extreme cold has sparked a whirlwind of scientific study. Carney also enlists input from an Army scientist, a world-famous surfer, the founders of an obstacle course race movement, and ordinary people who have documented how they have cured autoimmune diseases, lost weight, and reversed diabetes. In the process, he chronicles his own transformational journey as he pushes his body and mind to the edge of endurance, a quest that culminates in a record-bending, 28-hour climb to the snowy peak of Mt. Kilimanjaro wearing nothing but a pair of running shorts and sneakers.&lt;/p&gt;
+
+&lt;p&gt;An ambitious blend of investigative reporting and participatory journalism, What Doesn’t Kill Us explores the true connection between the mind and the body and reveals the science that allows us to push past our perceived limitations.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harmony/Rodale</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">QZx5DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781635652413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Cultural &amp; Social Aspects</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Sports Psychology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="What Doesn't Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="What Doesn't Kill Us_ How Freezing Water, Extreme Altitude, andonmental Conditioning Will Renew Our Lost Evolutionary Strength.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f1e9ea4-4d3f-44cf-861d-836a668270db</dc:identifier>
+        <dc:title>Against Empathy: The Case for Rational Compassion</dc:title>
+        <dc:creator opf:file-as="Bloom, Paul" opf:role="aut">Paul Bloom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-06T15:46:11.087835+00:00</dc:date>
+        <dc:description>&lt;p&gt;New York Post Best Book of 2016We often think of our capacity to experience the suffering of others as the ultimate source of goodness. Many of our wisest policy-makers, activists, scientists, and philosophers agree that the only problem with empathy is that we don’t have enough of it.&lt;/p&gt;
+
+&lt;p&gt;Nothing could be farther from the truth, argues Yale researcher Paul Bloom. In AGAINST EMPATHY, Bloom reveals empathy to be one of the leading motivators of inequality and immorality in society. Far from helping us to improve the lives of others, empathy is a capricious and irrational emotion that appeals to our narrow prejudices. It muddles our judgment and, ironically, often leads to cruelty. We are at our best when we are smart enough not to rely on it, but to draw instead upon a more distanced compassion. Basing his argument on groundbreaking scientific findings, Bloom makes the case that some of the worst decisions made by individuals and nations—who to give money to, when to go to war, how to respond to climate change, and who to imprison—are too often motivated by honest, yet misplaced, emotions. With precision and wit, he demonstrates how empathy distorts our judgment in every aspect of our lives, from philanthropy and charity to the justice system; from medical care and education to parenting and marriage. Without empathy, Bloom insists, our decisions would be clearer, fairer, and—yes—ultimately more moral.&lt;/p&gt;
+
+&lt;p&gt;Brilliantly argued, urgent and humane, AGAINST EMPATHY shows us that, when it comes to both major policy decisions and the choices we make in our everyday lives, limiting our impulse toward empathy is often the most compassionate choice we can make.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01CY2LCZI</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">op67CwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062339355</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Prejudice</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Social Policy</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Against Empathy: The Case for Rational Compassion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Against Empathy_ The Case for Rational Compassion.jpg"/>
+    </guide>
+</package>

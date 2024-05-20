@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc8b96f6-090f-4df7-a36d-003d2fb35c82</dc:identifier>
+        <dc:title>Jack Canfield's Key to Living the Law of Attraction: A Simple Guide to Creating the Life of Your Dreams</dc:title>
+        <dc:creator opf:file-as="Canfield, Jack &amp; Watkins, D.D." opf:role="aut">Jack Canfield</dc:creator>
+        <dc:creator opf:file-as="Canfield, Jack &amp; Watkins, D.D." opf:role="aut">D.D. Watkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-01T04:00:00+00:00</dc:date>
+        <dc:publisher>Health Communications</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004FN1SVS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ebook</dc:subject>
+        <dc:subject>book</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:20+00:00"/>
+        <meta name="calibre:title_sort" content="Jack Canfield's Key to Living the Law of Attraction: A Simple Guide to Creating the Life of Your Dreams"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Jack Canfield's Key to Living the Law of Attraction_ A Simple Guide to Creating the Life of Your Dreams.jpg"/>
+    </guide>
+</package>

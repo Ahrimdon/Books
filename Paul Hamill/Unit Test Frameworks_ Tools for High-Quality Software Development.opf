@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">927c4bb9-d5f1-43cc-97ec-13cbeba6ba86</dc:identifier>
+        <dc:title>Unit Test Frameworks: Tools for High-Quality Software Development</dc:title>
+        <dc:creator opf:file-as="Hamill, Paul" opf:role="aut">Paul Hamill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This is the only book to explore unit testing as a language-independent, standalone development methodology. It covers the theory and methodology of unit test frameworks, offers instruction in unit test development, provides useful code examples in both Java and C++, and details the most commonly used frameworks from the XUnit family, including JUnit for Java, CppUnit for C++, and NUnit for .NET. It also includes the complete source code for CppUnit for C++ and NUnit for .NET. &lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596104825</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0026OR3H6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-05-19T14:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="Unit Test Frameworks: Tools for High-Quality Software Development"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Unit Test Frameworks_ Tools for High-Quality Software Development.jpg"/>
+    </guide>
+</package>
